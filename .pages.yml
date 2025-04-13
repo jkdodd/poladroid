@@ -27,12 +27,14 @@ content:
     path: src/_data/site.json
     fields:
       - name: title
-        label: Website title
+        label: SEO title
         type: string
+        options:
+          maxlength: 60
       - name: description
-        label: Website description
+        label: SEO description
         type: string
-        description: Will be used for any page with no description.
+        maxlength: 160
       - name: email
         label: Email address
         type: string
