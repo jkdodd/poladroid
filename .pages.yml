@@ -3,7 +3,7 @@ media:
   output: media
 content:
   - name: polaroids
-    label: Polaroid
+    label: Polaroids
     type: collection
     path: 'polaroids'
     view: 
