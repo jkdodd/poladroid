@@ -5,10 +5,35 @@ content:
   - name: polaroids
     label: Polaroid
     type: collection
+    view: 
+      fields: [ musician_name, band_name, image, image_hover ]
     fields:
       - name: musician_name
         label: Musician name
         type: string
       - name: band_name
         label: Band name
+        type: string
+      - name: image
+        label: Image
+        type: image
+      - name: image_hover
+        label: Image (on hover)
+        type: image
+  - name: site
+    label: Site settings
+    type: file
+    fields:
+      - name: title
+        label: Website title
+        type: string
+      - name: description
+        label: Website description
+        type: string
+        description: Will be used for any page with no description.
+      - name: email
+        label: Email address
+        type: string
+      - name: instagram_handle
+        label: Instagram 
         type: string
