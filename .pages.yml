@@ -5,6 +5,7 @@ content:
   - name: polaroids
     label: Polaroid
     type: collection
+    path: 'polaroids'
     view: 
       fields: [ musician_name, band_name, image, image_hover ]
     fields:
@@ -23,6 +24,7 @@ content:
   - name: site
     label: Site settings
     type: file
+    path: src/_data/site.json
     fields:
       - name: title
         label: Website title
