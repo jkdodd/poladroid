@@ -9,16 +9,16 @@ content:
     view: 
       fields: [ musician_name, band_name, date ]
     fields:
-      - name: musician_name
+      - name: Musician_Name
         label: Musician name
         type: string
-      - name: band_name
+      - name: Band_Name
         label: Band name
         type: string
-      - name: image
+      - name: Image_Src
         label: Image
         type: image
-      - name: image_hover
+      - name: Hover_Image_Src
         label: Image (on hover)
         type: image
   - name: site
