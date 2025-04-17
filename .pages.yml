@@ -7,7 +7,7 @@ content:
     type: collection
     path: 'polaroids'
     view: 
-      fields: [ musician_name, band_name, date ]
+      fields: [ Musician_Name, Band_Name, date ]
     fields:
       - name: Musician_Name
         label: Musician name
