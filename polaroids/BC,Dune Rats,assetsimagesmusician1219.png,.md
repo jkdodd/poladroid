@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1219.png"]
+Image_Src: ["/media/musician1219.png"]
 Hover_Image_Src: null
 Musician_Name: ["BC"]
 Band_Name: ["Dune Rats"]
 ---
-assets/images/musician1219.png
+/media/musician1219.png
 
 BC
 

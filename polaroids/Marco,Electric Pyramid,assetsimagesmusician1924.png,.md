@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1924.png"]
+Image_Src: ["/media/musician1924.png"]
 Hover_Image_Src: null
 Musician_Name: ["Marco"]
 Band_Name: ["Electric Pyramid"]
 ---
-assets/images/musician1924.png
+/media/musician1924.png
 
 Marco
 

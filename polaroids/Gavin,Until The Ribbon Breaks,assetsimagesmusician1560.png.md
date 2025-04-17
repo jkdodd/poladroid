@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1560.png"]
+Image_Src: ["/media/musician1560.png"]
 Hover_Image_Src: null
 Musician_Name: ["Gavin"]
 Band_Name: ["Until The Ribbon Breaks"]
 ---
-assets/images/musician1560.png
+/media/musician1560.png
 
 Gavin
 

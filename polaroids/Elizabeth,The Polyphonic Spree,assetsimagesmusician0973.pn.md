@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0973.png"]
+Image_Src: ["/media/musician0973.png"]
 Hover_Image_Src: null
 Musician_Name: ["Elizabeth"]
 Band_Name: ["The Polyphonic Spree"]
 ---
-assets/images/musician0973.png
+/media/musician0973.png
 
 Elizabeth
 

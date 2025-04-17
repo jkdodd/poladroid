@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0706.png"]
+Image_Src: ["/media/musician0706.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ed"]
 Band_Name: ["Yuck"]
 ---
-assets/images/musician0706.png
+/media/musician0706.png
 
 Ed
 

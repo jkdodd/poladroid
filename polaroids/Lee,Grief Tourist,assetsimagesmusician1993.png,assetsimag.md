@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician1993.png"]
-Hover_Image_Src: ["assets/images/musician1993.1.png"]
+Image_Src: ["/media/musician1993.png"]
+Hover_Image_Src: ["/media/musician1993.1.png"]
 Musician_Name: ["Lee"]
 Band_Name: ["Grief Tourist"]
 ---
-assets/images/musician1993.png
+/media/musician1993.png
 
-assets/images/musician1993.1.png
+/media/musician1993.1.png
 
 Lee
 

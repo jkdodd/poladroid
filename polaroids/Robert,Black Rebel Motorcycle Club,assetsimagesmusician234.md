@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2348.png"]
+Image_Src: ["/media/musician2348.png"]
 Hover_Image_Src: null
 Musician_Name: ["Robert"]
 Band_Name: ["Black Rebel Motorcycle Club"]
 ---
-assets/images/musician2348.png
+/media/musician2348.png
 
 Robert
 

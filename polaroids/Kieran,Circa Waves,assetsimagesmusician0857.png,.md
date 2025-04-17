@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0857.png"]
+Image_Src: ["/media/musician0857.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kieran"]
 Band_Name: ["Circa Waves"]
 ---
-assets/images/musician0857.png
+/media/musician0857.png
 
 Kieran
 

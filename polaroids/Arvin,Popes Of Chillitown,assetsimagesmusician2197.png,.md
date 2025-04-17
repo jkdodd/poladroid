@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2197.png"]
+Image_Src: ["/media/musician2197.png"]
 Hover_Image_Src: null
 Musician_Name: ["Arvin"]
 Band_Name: ["Popes Of Chillitown"]
 ---
-assets/images/musician2197.png
+/media/musician2197.png
 
 Arvin
 

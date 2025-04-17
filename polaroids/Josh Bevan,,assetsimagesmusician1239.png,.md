@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician1239.png"]
+Image_Src: ["/media/musician1239.png"]
 Hover_Image_Src: null
 Musician_Name: ["Josh Bevan"]
 Band_Name: null
 ---
-assets/images/musician1239.png
+/media/musician1239.png
 
 Josh Bevan

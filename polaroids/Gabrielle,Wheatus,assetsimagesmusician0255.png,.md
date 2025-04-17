@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0255.png"]
+Image_Src: ["/media/musician0255.png"]
 Hover_Image_Src: null
 Musician_Name: ["Gabrielle"]
 Band_Name: ["Wheatus"]
 ---
-assets/images/musician0255.png
+/media/musician0255.png
 
 Gabrielle
 

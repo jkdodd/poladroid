@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0223.png"]
+Image_Src: ["/media/musician0223.png"]
 Hover_Image_Src: null
 Musician_Name: ["Oscar"]
 Band_Name: ["Metronomy."]
 ---
-assets/images/musician0223.png
+/media/musician0223.png
 
 Oscar
 

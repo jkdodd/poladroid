@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0385.png"]
+Image_Src: ["/media/musician0385.png"]
 Hover_Image_Src: null
 Musician_Name: ["Rod"]
 Band_Name: ["Bright Light Bright Light"]
 ---
-assets/images/musician0385.png
+/media/musician0385.png
 
 Rod
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0469.png"]
+Image_Src: ["/media/musician0469.png"]
 Hover_Image_Src: null
 Musician_Name: ["Phil"]
 Band_Name: ["Army Of Freshmen"]
 ---
-assets/images/musician0469.png
+/media/musician0469.png
 
 Phil
 

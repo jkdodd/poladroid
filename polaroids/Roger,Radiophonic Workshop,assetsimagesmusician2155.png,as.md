@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician2155.png"]
-Hover_Image_Src: ["assets/images/musician2155.1.png"]
+Image_Src: ["/media/musician2155.png"]
+Hover_Image_Src: ["/media/musician2155.1.png"]
 Musician_Name: ["Roger"]
 Band_Name: ["Radiophonic Workshop"]
 ---
-assets/images/musician2155.png
+/media/musician2155.png
 
-assets/images/musician2155.1.png
+/media/musician2155.1.png
 
 Roger
 

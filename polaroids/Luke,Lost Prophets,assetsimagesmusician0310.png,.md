@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0310.png"]
+Image_Src: ["/media/musician0310.png"]
 Hover_Image_Src: null
 Musician_Name: ["Luke"]
 Band_Name: ["Lost Prophets"]
 ---
-assets/images/musician0310.png
+/media/musician0310.png
 
 Luke
 

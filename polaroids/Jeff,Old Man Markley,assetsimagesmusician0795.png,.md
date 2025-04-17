@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0795.png"]
+Image_Src: ["/media/musician0795.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jeff"]
 Band_Name: ["Old Man Markley"]
 ---
-assets/images/musician0795.png
+/media/musician0795.png
 
 Jeff
 

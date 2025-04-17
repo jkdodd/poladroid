@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2507.png"]
+Image_Src: ["/media/musician2507.png"]
 Hover_Image_Src: null
 Musician_Name: ["Leah"]
 Band_Name: ["Thunderpussy"]
 ---
-assets/images/musician2507.png
+/media/musician2507.png
 
 Leah
 

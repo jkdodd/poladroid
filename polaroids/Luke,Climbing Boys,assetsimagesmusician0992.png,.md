@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0992.png"]
+Image_Src: ["/media/musician0992.png"]
 Hover_Image_Src: null
 Musician_Name: ["Luke"]
 Band_Name: ["Climbing Boys"]
 ---
-assets/images/musician0992.png
+/media/musician0992.png
 
 Luke
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0402.png"]
+Image_Src: ["/media/musician0402.png"]
 Hover_Image_Src: null
 Musician_Name: ["Cal"]
 Band_Name: ["Hundred Reasons"]
 ---
-assets/images/musician0402.png
+/media/musician0402.png
 
 Cal
 

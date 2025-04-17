@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0981.png"]
+Image_Src: ["/media/musician0981.png"]
 Hover_Image_Src: null
 Musician_Name: ["Fynn"]
 Band_Name: ["Wooden Arms"]
 ---
-assets/images/musician0981.png
+/media/musician0981.png
 
 Fynn
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0053.png"]
+Image_Src: ["/media/musician0053.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jo"]
 Band_Name: ["Tubelord."]
 ---
-assets/images/musician0053.png
+/media/musician0053.png
 
 Jo
 

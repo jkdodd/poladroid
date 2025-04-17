@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1771.png"]
+Image_Src: ["/media/musician1771.png"]
 Hover_Image_Src: null
 Musician_Name: ["Rob"]
 Band_Name: ["The Vryll Society"]
 ---
-assets/images/musician1771.png
+/media/musician1771.png
 
 Rob
 

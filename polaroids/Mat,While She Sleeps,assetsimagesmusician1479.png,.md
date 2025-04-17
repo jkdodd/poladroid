@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1479.png"]
+Image_Src: ["/media/musician1479.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mat"]
 Band_Name: ["While She Sleeps"]
 ---
-assets/images/musician1479.png
+/media/musician1479.png
 
 Mat
 

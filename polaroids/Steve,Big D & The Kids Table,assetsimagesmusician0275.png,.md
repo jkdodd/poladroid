@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0275.png"]
+Image_Src: ["/media/musician0275.png"]
 Hover_Image_Src: null
 Musician_Name: ["Steve"]
 Band_Name: ["Big D & The Kids Table"]
 ---
-assets/images/musician0275.png
+/media/musician0275.png
 
 Steve
 

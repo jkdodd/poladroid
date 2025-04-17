@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2320.png"]
+Image_Src: ["/media/musician2320.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kyle"]
 Band_Name: ["The Black Angels"]
 ---
-assets/images/musician2320.png
+/media/musician2320.png
 
 Kyle
 

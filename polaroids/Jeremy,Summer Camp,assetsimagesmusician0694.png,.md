@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0694.png"]
+Image_Src: ["/media/musician0694.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jeremy"]
 Band_Name: ["Summer Camp"]
 ---
-assets/images/musician0694.png
+/media/musician0694.png
 
 Jeremy
 

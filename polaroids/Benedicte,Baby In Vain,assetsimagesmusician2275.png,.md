@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2275.png"]
+Image_Src: ["/media/musician2275.png"]
 Hover_Image_Src: null
 Musician_Name: ["Benedicte"]
 Band_Name: ["Baby In Vain"]
 ---
-assets/images/musician2275.png
+/media/musician2275.png
 
 Benedicte
 

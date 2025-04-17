@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1622.png"]
+Image_Src: ["/media/musician1622.png"]
 Hover_Image_Src: null
 Musician_Name: ["Connor"]
 Band_Name: ["Half Moon Run"]
 ---
-assets/images/musician1622.png
+/media/musician1622.png
 
 Connor
 

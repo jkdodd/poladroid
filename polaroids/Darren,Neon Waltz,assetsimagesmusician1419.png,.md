@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1419.png"]
+Image_Src: ["/media/musician1419.png"]
 Hover_Image_Src: null
 Musician_Name: ["Darren"]
 Band_Name: ["Neon Waltz"]
 ---
-assets/images/musician1419.png
+/media/musician1419.png
 
 Darren
 

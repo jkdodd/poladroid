@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1568.png"]
+Image_Src: ["/media/musician1568.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tim"]
 Band_Name: ["Alien Ant Farm"]
 ---
-assets/images/musician1568.png
+/media/musician1568.png
 
 Tim
 

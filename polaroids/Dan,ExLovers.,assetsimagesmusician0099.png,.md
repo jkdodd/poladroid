@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0099.png"]
+Image_Src: ["/media/musician0099.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dan"]
 Band_Name: ["ExLovers."]
 ---
-assets/images/musician0099.png
+/media/musician0099.png
 
 Dan
 

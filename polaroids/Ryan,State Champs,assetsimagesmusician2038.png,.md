@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2038.png"]
+Image_Src: ["/media/musician2038.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ryan"]
 Band_Name: ["State Champs"]
 ---
-assets/images/musician2038.png
+/media/musician2038.png
 
 Ryan
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2363.png"]
+Image_Src: ["/media/musician2363.png"]
 Hover_Image_Src: null
 Musician_Name: ["Josh"]
 Band_Name: ["Trombone Shorty & Orleans Avenue"]
 ---
-assets/images/musician2363.png
+/media/musician2363.png
 
 Josh
 

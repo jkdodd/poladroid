@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1511.png"]
+Image_Src: ["/media/musician1511.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jimmy"]
 Band_Name: ["The Graveltones"]
 ---
-assets/images/musician1511.png
+/media/musician1511.png
 
 Jimmy
 

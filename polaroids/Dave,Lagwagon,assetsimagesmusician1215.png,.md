@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1215.png"]
+Image_Src: ["/media/musician1215.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dave"]
 Band_Name: ["Lagwagon"]
 ---
-assets/images/musician1215.png
+/media/musician1215.png
 
 Dave
 

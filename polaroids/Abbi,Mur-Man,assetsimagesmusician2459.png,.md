@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2459.png"]
+Image_Src: ["/media/musician2459.png"]
 Hover_Image_Src: null
 Musician_Name: ["Abbi"]
 Band_Name: ["Mur-Man"]
 ---
-assets/images/musician2459.png
+/media/musician2459.png
 
 Abbi
 

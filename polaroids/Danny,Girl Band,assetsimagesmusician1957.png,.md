@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1957.png"]
+Image_Src: ["/media/musician1957.png"]
 Hover_Image_Src: null
 Musician_Name: ["Danny"]
 Band_Name: ["Girl Band"]
 ---
-assets/images/musician1957.png
+/media/musician1957.png
 
 Danny
 

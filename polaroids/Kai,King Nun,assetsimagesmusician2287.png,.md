@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2287.png"]
+Image_Src: ["/media/musician2287.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kai"]
 Band_Name: ["King Nun"]
 ---
-assets/images/musician2287.png
+/media/musician2287.png
 
 Kai
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0834.png"]
+Image_Src: ["/media/musician0834.png"]
 Hover_Image_Src: null
 Musician_Name: ["Nicki"]
 Band_Name: ["Mad Dog Mcrea"]
 ---
-assets/images/musician0834.png
+/media/musician0834.png
 
 Nicki
 

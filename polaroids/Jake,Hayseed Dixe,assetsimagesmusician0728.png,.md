@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0728.png"]
+Image_Src: ["/media/musician0728.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jake"]
 Band_Name: ["Hayseed Dixe"]
 ---
-assets/images/musician0728.png
+/media/musician0728.png
 
 Jake
 

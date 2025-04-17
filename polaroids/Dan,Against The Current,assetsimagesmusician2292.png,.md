@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2292.png"]
+Image_Src: ["/media/musician2292.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dan"]
 Band_Name: ["Against The Current"]
 ---
-assets/images/musician2292.png
+/media/musician2292.png
 
 Dan
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1393.png"]
+Image_Src: ["/media/musician1393.png"]
 Hover_Image_Src: null
 Musician_Name: ["Brian"]
 Band_Name: ["Alvvays"]
 ---
-assets/images/musician1393.png
+/media/musician1393.png
 
 Brian
 

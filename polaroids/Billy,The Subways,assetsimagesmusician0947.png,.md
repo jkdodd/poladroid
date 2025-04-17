@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0947.png"]
+Image_Src: ["/media/musician0947.png"]
 Hover_Image_Src: null
 Musician_Name: ["Billy"]
 Band_Name: ["The Subways"]
 ---
-assets/images/musician0947.png
+/media/musician0947.png
 
 Billy
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0025.png"]
+Image_Src: ["/media/musician0025.png"]
 Hover_Image_Src: null
 Musician_Name: ["John"]
 Band_Name: ["Be Your Own Pet."]
 ---
-assets/images/musician0025.png
+/media/musician0025.png
 
 John
 

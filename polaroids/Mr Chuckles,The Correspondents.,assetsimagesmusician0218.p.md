@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0218.png"]
+Image_Src: ["/media/musician0218.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mr Chuckles"]
 Band_Name: ["The Correspondents."]
 ---
-assets/images/musician0218.png
+/media/musician0218.png
 
 Mr Chuckles
 

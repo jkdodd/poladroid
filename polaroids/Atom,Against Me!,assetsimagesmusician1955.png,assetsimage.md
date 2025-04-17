@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician1955.png"]
-Hover_Image_Src: ["assets/images/musician1955.1.png"]
+Image_Src: ["/media/musician1955.png"]
+Hover_Image_Src: ["/media/musician1955.1.png"]
 Musician_Name: ["Atom"]
 Band_Name: ["Against Me!"]
 ---
-assets/images/musician1955.png
+/media/musician1955.png
 
-assets/images/musician1955.1.png
+/media/musician1955.1.png
 
 Atom
 

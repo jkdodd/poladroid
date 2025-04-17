@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0668.png"]
+Image_Src: ["/media/musician0668.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jermaine"]
 Band_Name: ["Wretch 32"]
 ---
-assets/images/musician0668.png
+/media/musician0668.png
 
 Jermaine
 

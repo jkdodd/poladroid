@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1839.png"]
+Image_Src: ["/media/musician1839.png"]
 Hover_Image_Src: null
 Musician_Name: ["Daniel"]
 Band_Name: ["HÃLOS"]
 ---
-assets/images/musician1839.png
+/media/musician1839.png
 
 Daniel
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1162.png"]
+Image_Src: ["/media/musician1162.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chief Xcel"]
 Band_Name: ["Blackalicious"]
 ---
-assets/images/musician1162.png
+/media/musician1162.png
 
 Chief Xcel
 

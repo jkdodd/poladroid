@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0269.png"]
+Image_Src: ["/media/musician0269.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ricky"]
 Band_Name: ["The Aggrolites"]
 ---
-assets/images/musician0269.png
+/media/musician0269.png
 
 Ricky
 

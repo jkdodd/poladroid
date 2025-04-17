@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2241.png"]
+Image_Src: ["/media/musician2241.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ed"]
 Band_Name: ["Glass Animals"]
 ---
-assets/images/musician2241.png
+/media/musician2241.png
 
 Ed
 

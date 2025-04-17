@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0362.png"]
+Image_Src: ["/media/musician0362.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jol"]
 Band_Name: ["Pure Love"]
 ---
-assets/images/musician0362.png
+/media/musician0362.png
 
 Jol
 

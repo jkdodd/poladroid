@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician1942.png"]
-Hover_Image_Src: ["assets/images/musician1942.1.png"]
+Image_Src: ["/media/musician1942.png"]
+Hover_Image_Src: ["/media/musician1942.1.png"]
 Musician_Name: ["Chris"]
 Band_Name: ["Forest Of Fools"]
 ---
-assets/images/musician1942.png
+/media/musician1942.png
 
-assets/images/musician1942.1.png
+/media/musician1942.1.png
 
 Chris
 

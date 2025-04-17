@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1805.png"]
+Image_Src: ["/media/musician1805.png"]
 Hover_Image_Src: null
 Musician_Name: ["Connor"]
 Band_Name: ["Nothing But Thieves"]
 ---
-assets/images/musician1805.png
+/media/musician1805.png
 
 Connor
 

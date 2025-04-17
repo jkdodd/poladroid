@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0933.png"]
+Image_Src: ["/media/musician0933.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matthew"]
 Band_Name: ["Drowners"]
 ---
-assets/images/musician0933.png
+/media/musician0933.png
 
 Matthew
 

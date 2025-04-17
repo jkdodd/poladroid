@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2154.png"]
+Image_Src: ["/media/musician2154.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dick"]
 Band_Name: ["Radiophonic Workshop"]
 ---
-assets/images/musician2154.png
+/media/musician2154.png
 
 Dick
 

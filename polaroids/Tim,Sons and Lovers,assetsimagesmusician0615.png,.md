@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0615.png"]
+Image_Src: ["/media/musician0615.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tim"]
 Band_Name: ["Sons and Lovers"]
 ---
-assets/images/musician0615.png
+/media/musician0615.png
 
 Tim
 

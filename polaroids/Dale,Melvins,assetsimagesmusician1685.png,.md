@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1685.png"]
+Image_Src: ["/media/musician1685.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dale"]
 Band_Name: ["Melvins"]
 ---
-assets/images/musician1685.png
+/media/musician1685.png
 
 Dale
 

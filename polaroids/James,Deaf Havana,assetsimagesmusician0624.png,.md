@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0624.png"]
+Image_Src: ["/media/musician0624.png"]
 Hover_Image_Src: null
 Musician_Name: ["James"]
 Band_Name: ["Deaf Havana"]
 ---
-assets/images/musician0624.png
+/media/musician0624.png
 
 James
 

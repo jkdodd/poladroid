@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0079.png"]
+Image_Src: ["/media/musician0079.png"]
 Hover_Image_Src: null
 Musician_Name: ["Russ (Satchel)"]
 Band_Name: ["Steel Panther."]
 ---
-assets/images/musician0079.png
+/media/musician0079.png
 
 Russ (Satchel)
 

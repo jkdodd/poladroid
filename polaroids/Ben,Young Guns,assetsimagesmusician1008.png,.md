@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1008.png"]
+Image_Src: ["/media/musician1008.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ben"]
 Band_Name: ["Young Guns"]
 ---
-assets/images/musician1008.png
+/media/musician1008.png
 
 Ben
 

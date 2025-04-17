@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0432.png"]
+Image_Src: ["/media/musician0432.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ross"]
 Band_Name: ["Rivals"]
 ---
-assets/images/musician0432.png
+/media/musician0432.png
 
 Ross
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0328.png"]
+Image_Src: ["/media/musician0328.png"]
 Hover_Image_Src: null
 Musician_Name: ["Phillip"]
 Band_Name: ["Kids in Glass Houses"]
 ---
-assets/images/musician0328.png
+/media/musician0328.png
 
 Phillip
 

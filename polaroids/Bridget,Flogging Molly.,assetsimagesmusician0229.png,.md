@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0229.png"]
+Image_Src: ["/media/musician0229.png"]
 Hover_Image_Src: null
 Musician_Name: ["Bridget"]
 Band_Name: ["Flogging Molly."]
 ---
-assets/images/musician0229.png
+/media/musician0229.png
 
 Bridget
 

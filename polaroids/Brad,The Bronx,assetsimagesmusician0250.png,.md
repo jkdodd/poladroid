@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0250.png"]
+Image_Src: ["/media/musician0250.png"]
 Hover_Image_Src: null
 Musician_Name: ["Brad"]
 Band_Name: ["The Bronx"]
 ---
-assets/images/musician0250.png
+/media/musician0250.png
 
 Brad
 

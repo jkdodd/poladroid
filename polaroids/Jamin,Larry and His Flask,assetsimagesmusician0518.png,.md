@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0518.png"]
+Image_Src: ["/media/musician0518.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jamin"]
 Band_Name: ["Larry and His Flask"]
 ---
-assets/images/musician0518.png
+/media/musician0518.png
 
 Jamin
 

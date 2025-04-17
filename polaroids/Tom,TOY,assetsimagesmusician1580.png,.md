@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1580.png"]
+Image_Src: ["/media/musician1580.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom"]
 Band_Name: ["TOY"]
 ---
-assets/images/musician1580.png
+/media/musician1580.png
 
 Tom
 

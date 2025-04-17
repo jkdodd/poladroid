@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0874.png"]
+Image_Src: ["/media/musician0874.png"]
 Hover_Image_Src: null
 Musician_Name: ["Malia"]
 Band_Name: ["Dum Dum Girls"]
 ---
-assets/images/musician0874.png
+/media/musician0874.png
 
 Malia
 

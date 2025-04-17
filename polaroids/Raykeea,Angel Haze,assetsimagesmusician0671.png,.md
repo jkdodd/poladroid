@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0671.png"]
+Image_Src: ["/media/musician0671.png"]
 Hover_Image_Src: null
 Musician_Name: ["Raykeea"]
 Band_Name: ["Angel Haze"]
 ---
-assets/images/musician0671.png
+/media/musician0671.png
 
 Raykeea
 

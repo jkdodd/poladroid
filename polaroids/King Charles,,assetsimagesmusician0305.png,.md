@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician0305.png"]
+Image_Src: ["/media/musician0305.png"]
 Hover_Image_Src: null
 Musician_Name: ["King Charles"]
 Band_Name: null
 ---
-assets/images/musician0305.png
+/media/musician0305.png
 
 King Charles

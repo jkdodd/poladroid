@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1474.png"]
+Image_Src: ["/media/musician1474.png"]
 Hover_Image_Src: null
 Musician_Name: ["Scott"]
 Band_Name: ["Cancer Bats"]
 ---
-assets/images/musician1474.png
+/media/musician1474.png
 
 Scott
 

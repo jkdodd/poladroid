@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0010.png"]
+Image_Src: ["/media/musician0010.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ryland"]
 Band_Name: ["Reel Big Fish."]
 ---
-assets/images/musician0010.png
+/media/musician0010.png
 
 Ryland
 

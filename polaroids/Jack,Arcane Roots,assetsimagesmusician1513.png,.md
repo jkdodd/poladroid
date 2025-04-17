@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1513.png"]
+Image_Src: ["/media/musician1513.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jack"]
 Band_Name: ["Arcane Roots"]
 ---
-assets/images/musician1513.png
+/media/musician1513.png
 
 Jack
 

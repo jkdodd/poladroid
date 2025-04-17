@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0915.png"]
+Image_Src: ["/media/musician0915.png"]
 Hover_Image_Src: null
 Musician_Name: ["Archis"]
 Band_Name: ["MaxÃ¯mo Park"]
 ---
-assets/images/musician0915.png
+/media/musician0915.png
 
 Archis
 

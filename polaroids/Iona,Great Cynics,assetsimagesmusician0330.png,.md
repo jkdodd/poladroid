@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0330.png"]
+Image_Src: ["/media/musician0330.png"]
 Hover_Image_Src: null
 Musician_Name: ["Iona"]
 Band_Name: ["Great Cynics"]
 ---
-assets/images/musician0330.png
+/media/musician0330.png
 
 Iona
 

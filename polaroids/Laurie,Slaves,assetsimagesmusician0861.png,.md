@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0861.png"]
+Image_Src: ["/media/musician0861.png"]
 Hover_Image_Src: null
 Musician_Name: ["Laurie"]
 Band_Name: ["Slaves"]
 ---
-assets/images/musician0861.png
+/media/musician0861.png
 
 Laurie
 

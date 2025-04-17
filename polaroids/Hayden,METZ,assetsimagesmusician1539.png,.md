@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1539.png"]
+Image_Src: ["/media/musician1539.png"]
 Hover_Image_Src: null
 Musician_Name: ["Hayden"]
 Band_Name: ["METZ"]
 ---
-assets/images/musician1539.png
+/media/musician1539.png
 
 Hayden
 

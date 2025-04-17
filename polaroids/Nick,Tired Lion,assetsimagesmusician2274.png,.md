@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2274.png"]
+Image_Src: ["/media/musician2274.png"]
 Hover_Image_Src: null
 Musician_Name: ["Nick"]
 Band_Name: ["Tired Lion"]
 ---
-assets/images/musician2274.png
+/media/musician2274.png
 
 Nick
 

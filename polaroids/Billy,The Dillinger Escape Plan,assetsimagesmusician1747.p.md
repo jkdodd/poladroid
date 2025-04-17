@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1747.png"]
+Image_Src: ["/media/musician1747.png"]
 Hover_Image_Src: null
 Musician_Name: ["Billy"]
 Band_Name: ["The Dillinger Escape Plan"]
 ---
-assets/images/musician1747.png
+/media/musician1747.png
 
 Billy
 

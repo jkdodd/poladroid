@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2392.png"]
+Image_Src: ["/media/musician2392.png"]
 Hover_Image_Src: null
 Musician_Name: ["Daro"]
 Band_Name: ["Lucky Chops"]
 ---
-assets/images/musician2392.png
+/media/musician2392.png
 
 Daro
 

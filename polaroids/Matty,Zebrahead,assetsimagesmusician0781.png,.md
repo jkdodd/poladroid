@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0781.png"]
+Image_Src: ["/media/musician0781.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matty"]
 Band_Name: ["Zebrahead"]
 ---
-assets/images/musician0781.png
+/media/musician0781.png
 
 Matty
 

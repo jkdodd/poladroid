@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2443.png"]
+Image_Src: ["/media/musician2443.png"]
 Hover_Image_Src: null
 Musician_Name: ["Pete"]
 Band_Name: ["The Dutty Moonshine Big Band"]
 ---
-assets/images/musician2443.png
+/media/musician2443.png
 
 Pete
 

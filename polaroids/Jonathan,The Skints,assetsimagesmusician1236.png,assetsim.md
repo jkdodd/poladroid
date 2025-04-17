@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician1236.png"]
-Hover_Image_Src: ["assets/images/musician0047.png"]
+Image_Src: ["/media/musician1236.png"]
+Hover_Image_Src: ["/media/musician0047.png"]
 Musician_Name: ["Jonathan"]
 Band_Name: ["The Skints"]
 ---
-assets/images/musician1236.png
+/media/musician1236.png
 
-assets/images/musician0047.png
+/media/musician0047.png
 
 Jonathan
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2221.png"]
+Image_Src: ["/media/musician2221.png"]
 Hover_Image_Src: null
 Musician_Name: ["Centel"]
 Band_Name: ["Father"]
 ---
-assets/images/musician2221.png
+/media/musician2221.png
 
 Centel
 

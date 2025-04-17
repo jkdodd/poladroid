@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0291.png"]
+Image_Src: ["/media/musician0291.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jerome"]
 Band_Name: ["The History of Apple Pie"]
 ---
-assets/images/musician0291.png
+/media/musician0291.png
 
 Jerome
 

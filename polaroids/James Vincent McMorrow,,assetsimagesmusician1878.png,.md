@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician1878.png"]
+Image_Src: ["/media/musician1878.png"]
 Hover_Image_Src: null
 Musician_Name: ["James Vincent McMorrow"]
 Band_Name: null
 ---
-assets/images/musician1878.png
+/media/musician1878.png
 
 James Vincent McMorrow

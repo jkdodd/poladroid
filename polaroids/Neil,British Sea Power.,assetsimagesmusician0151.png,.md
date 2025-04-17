@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0151.png"]
+Image_Src: ["/media/musician0151.png"]
 Hover_Image_Src: null
 Musician_Name: ["Neil"]
 Band_Name: ["British Sea Power."]
 ---
-assets/images/musician0151.png
+/media/musician0151.png
 
 Neil
 

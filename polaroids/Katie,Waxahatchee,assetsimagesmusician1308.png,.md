@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1308.png"]
+Image_Src: ["/media/musician1308.png"]
 Hover_Image_Src: null
 Musician_Name: ["Katie"]
 Band_Name: ["Waxahatchee"]
 ---
-assets/images/musician1308.png
+/media/musician1308.png
 
 Katie
 

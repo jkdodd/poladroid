@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2252.png"]
+Image_Src: ["/media/musician2252.png"]
 Hover_Image_Src: null
 Musician_Name: ["Walshy Fire"]
 Band_Name: ["Major Lazer"]
 ---
-assets/images/musician2252.png
+/media/musician2252.png
 
 Walshy Fire
 

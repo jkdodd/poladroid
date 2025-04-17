@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2266.png"]
+Image_Src: ["/media/musician2266.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jake"]
 Band_Name: ["Fizzy Blood"]
 ---
-assets/images/musician2266.png
+/media/musician2266.png
 
 Jake
 

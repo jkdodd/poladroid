@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1723.png"]
+Image_Src: ["/media/musician1723.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mark"]
 Band_Name: ["Edward Sharpe and the Magnetic Zeros"]
 ---
-assets/images/musician1723.png
+/media/musician1723.png
 
 Mark
 

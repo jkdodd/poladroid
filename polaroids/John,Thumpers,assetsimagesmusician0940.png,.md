@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0940.png"]
+Image_Src: ["/media/musician0940.png"]
 Hover_Image_Src: null
 Musician_Name: ["John"]
 Band_Name: ["Thumpers"]
 ---
-assets/images/musician0940.png
+/media/musician0940.png
 
 John
 

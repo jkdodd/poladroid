@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2033.png"]
+Image_Src: ["/media/musician2033.png"]
 Hover_Image_Src: null
 Musician_Name: ["Josh"]
 Band_Name: ["Blanco White"]
 ---
-assets/images/musician2033.png
+/media/musician2033.png
 
 Josh
 

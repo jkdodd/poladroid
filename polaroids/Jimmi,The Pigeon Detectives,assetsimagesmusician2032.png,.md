@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2032.png"]
+Image_Src: ["/media/musician2032.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jimmi"]
 Band_Name: ["The Pigeon Detectives"]
 ---
-assets/images/musician2032.png
+/media/musician2032.png
 
 Jimmi
 

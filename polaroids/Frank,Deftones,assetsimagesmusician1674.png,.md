@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1674.png"]
+Image_Src: ["/media/musician1674.png"]
 Hover_Image_Src: null
 Musician_Name: ["Frank"]
 Band_Name: ["Deftones"]
 ---
-assets/images/musician1674.png
+/media/musician1674.png
 
 Frank
 

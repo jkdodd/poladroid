@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0743.png"]
+Image_Src: ["/media/musician0743.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tim"]
 Band_Name: ["Les Savy Fav"]
 ---
-assets/images/musician0743.png
+/media/musician0743.png
 
 Tim
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2468.png"]
+Image_Src: ["/media/musician2468.png"]
 Hover_Image_Src: null
 Musician_Name: ["Scott"]
 Band_Name: ["The Dead South"]
 ---
-assets/images/musician2468.png
+/media/musician2468.png
 
 Scott
 

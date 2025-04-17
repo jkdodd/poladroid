@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1714.png"]
+Image_Src: ["/media/musician1714.png"]
 Hover_Image_Src: null
 Musician_Name: ["George"]
 Band_Name: ["The Bouncing Souls"]
 ---
-assets/images/musician1714.png
+/media/musician1714.png
 
 George
 

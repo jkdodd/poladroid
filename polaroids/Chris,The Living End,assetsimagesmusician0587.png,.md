@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0587.png"]
+Image_Src: ["/media/musician0587.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chris"]
 Band_Name: ["The Living End"]
 ---
-assets/images/musician0587.png
+/media/musician0587.png
 
 Chris
 

@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician2467.png"]
-Hover_Image_Src: ["assets/images/musician2467.1.png"]
+Image_Src: ["/media/musician2467.png"]
+Hover_Image_Src: ["/media/musician2467.1.png"]
 Musician_Name: ["Nate"]
 Band_Name: ["The Dead South"]
 ---
-assets/images/musician2467.png
+/media/musician2467.png
 
-assets/images/musician2467.1.png
+/media/musician2467.1.png
 
 Nate
 

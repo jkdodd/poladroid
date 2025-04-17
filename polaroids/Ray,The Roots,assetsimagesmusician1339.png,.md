@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1339.png"]
+Image_Src: ["/media/musician1339.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ray"]
 Band_Name: ["The Roots"]
 ---
-assets/images/musician1339.png
+/media/musician1339.png
 
 Ray
 

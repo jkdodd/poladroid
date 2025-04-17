@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1608.png"]
+Image_Src: ["/media/musician1608.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alex"]
 Band_Name: ["Ringo Deathstarr"]
 ---
-assets/images/musician1608.png
+/media/musician1608.png
 
 Alex
 

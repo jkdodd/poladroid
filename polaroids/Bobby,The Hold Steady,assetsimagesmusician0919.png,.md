@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0919.png"]
+Image_Src: ["/media/musician0919.png"]
 Hover_Image_Src: null
 Musician_Name: ["Bobby"]
 Band_Name: ["The Hold Steady"]
 ---
-assets/images/musician0919.png
+/media/musician0919.png
 
 Bobby
 

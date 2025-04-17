@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0032.png"]
+Image_Src: ["/media/musician0032.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jamie"]
 Band_Name: ["The King Blues."]
 ---
-assets/images/musician0032.png
+/media/musician0032.png
 
 Jamie
 

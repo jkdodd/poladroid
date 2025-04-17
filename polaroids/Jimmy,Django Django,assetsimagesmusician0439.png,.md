@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0439.png"]
+Image_Src: ["/media/musician0439.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jimmy"]
 Band_Name: ["Django Django"]
 ---
-assets/images/musician0439.png
+/media/musician0439.png
 
 Jimmy
 

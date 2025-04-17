@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician0753.png"]
+Image_Src: ["/media/musician0753.png"]
 Hover_Image_Src: null
 Musician_Name: ["Shakka"]
 Band_Name: null
 ---
-assets/images/musician0753.png
+/media/musician0753.png
 
 Shakka

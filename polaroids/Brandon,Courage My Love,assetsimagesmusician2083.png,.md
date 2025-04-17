@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2083.png"]
+Image_Src: ["/media/musician2083.png"]
 Hover_Image_Src: null
 Musician_Name: ["Brandon"]
 Band_Name: ["Courage My Love"]
 ---
-assets/images/musician2083.png
+/media/musician2083.png
 
 Brandon
 

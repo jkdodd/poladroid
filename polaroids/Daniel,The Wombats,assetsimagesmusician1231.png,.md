@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1231.png"]
+Image_Src: ["/media/musician1231.png"]
 Hover_Image_Src: null
 Musician_Name: ["Daniel"]
 Band_Name: ["The Wombats"]
 ---
-assets/images/musician1231.png
+/media/musician1231.png
 
 Daniel
 

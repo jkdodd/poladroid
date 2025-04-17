@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2130.png"]
+Image_Src: ["/media/musician2130.png"]
 Hover_Image_Src: null
 Musician_Name: ["Al"]
 Band_Name: ["St. Paul & The Broken Bones"]
 ---
-assets/images/musician2130.png
+/media/musician2130.png
 
 Al
 

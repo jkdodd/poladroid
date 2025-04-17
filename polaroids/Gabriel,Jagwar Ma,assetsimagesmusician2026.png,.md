@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2026.png"]
+Image_Src: ["/media/musician2026.png"]
 Hover_Image_Src: null
 Musician_Name: ["Gabriel"]
 Band_Name: ["Jagwar Ma"]
 ---
-assets/images/musician2026.png
+/media/musician2026.png
 
 Gabriel
 

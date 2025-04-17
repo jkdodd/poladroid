@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0505.png"]
+Image_Src: ["/media/musician0505.png"]
 Hover_Image_Src: null
 Musician_Name: ["Samuel"]
 Band_Name: ["Sky Larkin"]
 ---
-assets/images/musician0505.png
+/media/musician0505.png
 
 Samuel
 

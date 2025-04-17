@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1542.png"]
+Image_Src: ["/media/musician1542.png"]
 Hover_Image_Src: null
 Musician_Name: ["Charles"]
 Band_Name: ["Anteros"]
 ---
-assets/images/musician1542.png
+/media/musician1542.png
 
 Charles
 

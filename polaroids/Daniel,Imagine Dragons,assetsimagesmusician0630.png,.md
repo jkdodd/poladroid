@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0630.png"]
+Image_Src: ["/media/musician0630.png"]
 Hover_Image_Src: null
 Musician_Name: ["Daniel"]
 Band_Name: ["Imagine Dragons"]
 ---
-assets/images/musician0630.png
+/media/musician0630.png
 
 Daniel
 

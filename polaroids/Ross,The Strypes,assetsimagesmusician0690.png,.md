@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0690.png"]
+Image_Src: ["/media/musician0690.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ross"]
 Band_Name: ["The Strypes"]
 ---
-assets/images/musician0690.png
+/media/musician0690.png
 
 Ross
 
