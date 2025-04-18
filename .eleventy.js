@@ -1,16 +1,8 @@
 module.exports = (config) => {
-
-    config.addCollection("polaroids", (collection) =>
-      collection.getFilteredByGlob("./src/polaroids/*.md")
-    );
   
     config.addPassthroughCopy("src/css/");
     config.addPassthroughCopy("src/styles.css");
     config.addWatchTarget("src/styles.css");
-  
-    config.addPassthroughCopy("src/main.js");
-    config.addPassthroughCopy("src/main.js");
-    config.addWatchTarget("src/main.js");
   
     // config.addFilter("sluggyJo", function (value) {
     //   // lowercase and replace spaces with hyphens
@@ -44,15 +36,19 @@ module.exports = (config) => {
     //     encoding: "utf-8",
     //   });
     // });
+
+    config.addCollection("polaroids", (collection) =>
+      collection.getFilteredByGlob("./src/polaroids/*.md")
+    );
   
     return {
-      markdownTemplateEngine: "njk",
+      markdownTemplateEngine: "md",
       dataTemplateEngine: "njk",
       htmlTemplateEngine: "njk",
       dir: {
         input: "src",
         includes: "_includes",
-        output: "_site",
+        output: "./",
         data: "_data",
       },
     };
