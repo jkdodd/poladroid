@@ -1,0 +1,9 @@
+---
+Image_Src: ["media/musician1379.png"]
+Hover_Image_Src: null
+Musician_Name: ["Elle King"]
+Band_Name: null
+---
+media/musician1379.png
+
+Elle King
