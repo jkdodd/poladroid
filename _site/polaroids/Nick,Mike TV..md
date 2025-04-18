@@ -1,0 +1,11 @@
+---
+Image_Src: ["assets/images/musician0027.png"]
+Hover_Image_Src: null
+Musician_Name: ["Nick"]
+Band_Name: ["Mike TV."]
+---
+assets/images/musician0027.png
+
+Nick
+
+Mike TV.
