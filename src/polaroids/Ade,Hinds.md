@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1870.png"]
+Image_Src: ["media/musician1870.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ade"]
 Band_Name: ["Hinds"]
 ---
-assets/images/musician1870.png
+media/musician1870.png
 
 Ade
 

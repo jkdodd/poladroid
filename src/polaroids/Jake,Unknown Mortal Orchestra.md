@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1492.png"]
+Image_Src: ["media/musician1492.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jake"]
 Band_Name: ["Unknown Mortal Orchestra"]
 ---
-assets/images/musician1492.png
+media/musician1492.png
 
 Jake
 

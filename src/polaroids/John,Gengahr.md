@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1442.png"]
+Image_Src: ["media/musician1442.png"]
 Hover_Image_Src: null
 Musician_Name: ["John"]
 Band_Name: ["Gengahr"]
 ---
-assets/images/musician1442.png
+media/musician1442.png
 
 John
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0687.png"]
+Image_Src: ["media/musician0687.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ross"]
 Band_Name: ["The 1975"]
 ---
-assets/images/musician0687.png
+media/musician0687.png
 
 Ross
 

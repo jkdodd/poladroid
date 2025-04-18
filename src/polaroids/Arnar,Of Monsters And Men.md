@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1316.png"]
+Image_Src: ["media/musician1316.png"]
 Hover_Image_Src: null
 Musician_Name: ["Arnar"]
 Band_Name: ["Of Monsters And Men"]
 ---
-assets/images/musician1316.png
+media/musician1316.png
 
 Arnar
 

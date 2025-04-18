@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0772.png"]
+Image_Src: ["media/musician0772.png"]
 Hover_Image_Src: null
 Musician_Name: ["Duncan"]
 Band_Name: ["MaxÃ¯mo Park"]
 ---
-assets/images/musician0772.png
+media/musician0772.png
 
 Duncan
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2508.png"]
+Image_Src: ["media/musician2508.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ruby"]
 Band_Name: ["Thunderpussy"]
 ---
-assets/images/musician2508.png
+media/musician2508.png
 
 Ruby
 

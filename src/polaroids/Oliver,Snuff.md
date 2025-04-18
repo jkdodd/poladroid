@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0344.png"]
+Image_Src: ["media/musician0344.png"]
 Hover_Image_Src: null
 Musician_Name: ["Oliver"]
 Band_Name: ["Snuff"]
 ---
-assets/images/musician0344.png
+media/musician0344.png
 
 Oliver
 

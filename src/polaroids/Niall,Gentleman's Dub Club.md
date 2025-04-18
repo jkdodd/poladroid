@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2011.png"]
+Image_Src: ["media/musician2011.png"]
 Hover_Image_Src: null
 Musician_Name: ["Niall"]
 Band_Name: ["Gentleman's Dub Club"]
 ---
-assets/images/musician2011.png
+media/musician2011.png
 
 Niall
 

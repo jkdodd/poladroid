@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0979.png"]
+Image_Src: ["media/musician0979.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alex"]
 Band_Name: ["Wooden Arms"]
 ---
-assets/images/musician0979.png
+media/musician0979.png
 
 Alex
 

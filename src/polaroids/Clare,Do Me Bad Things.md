@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1348.png"]
+Image_Src: ["media/musician1348.png"]
 Hover_Image_Src: null
 Musician_Name: ["Clare"]
 Band_Name: ["Do Me Bad Things"]
 ---
-assets/images/musician1348.png
+media/musician1348.png
 
 Clare
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1904.png"]
+Image_Src: ["media/musician1904.png"]
 Hover_Image_Src: null
 Musician_Name: ["Vijay"]
 Band_Name: ["Kaiser Chiefs"]
 ---
-assets/images/musician1904.png
+media/musician1904.png
 
 Vijay
 

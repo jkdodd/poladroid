@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1297.png"]
+Image_Src: ["media/musician1297.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chappell"]
 Band_Name: ["Dead!"]
 ---
-assets/images/musician1297.png
+media/musician1297.png
 
 Chappell
 

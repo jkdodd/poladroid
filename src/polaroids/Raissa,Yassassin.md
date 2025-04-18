@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1716.png"]
+Image_Src: ["media/musician1716.png"]
 Hover_Image_Src: null
 Musician_Name: ["Raissa"]
 Band_Name: ["Yassassin"]
 ---
-assets/images/musician1716.png
+media/musician1716.png
 
 Raissa
 

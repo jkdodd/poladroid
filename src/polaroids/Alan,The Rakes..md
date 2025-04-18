@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0085.png"]
+Image_Src: ["media/musician0085.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alan"]
 Band_Name: ["The Rakes."]
 ---
-assets/images/musician0085.png
+media/musician0085.png
 
 Alan
 

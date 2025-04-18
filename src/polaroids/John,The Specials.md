@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1127.png"]
+Image_Src: ["media/musician1127.png"]
 Hover_Image_Src: null
 Musician_Name: ["John"]
 Band_Name: ["The Specials"]
 ---
-assets/images/musician1127.png
+media/musician1127.png
 
 John
 

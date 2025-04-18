@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0739.png"]
+Image_Src: ["media/musician0739.png"]
 Hover_Image_Src: null
 Musician_Name: ["Harrison"]
 Band_Name: ["Les Savy Fav"]
 ---
-assets/images/musician0739.png
+media/musician0739.png
 
 Harrison
 

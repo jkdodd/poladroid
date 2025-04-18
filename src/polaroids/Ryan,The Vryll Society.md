@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1766.png"]
+Image_Src: ["media/musician1766.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ryan"]
 Band_Name: ["The Vryll Society"]
 ---
-assets/images/musician1766.png
+media/musician1766.png
 
 Ryan
 

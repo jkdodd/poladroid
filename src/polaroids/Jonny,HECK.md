@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1617.png"]
+Image_Src: ["media/musician1617.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jonny"]
 Band_Name: ["HECK"]
 ---
-assets/images/musician1617.png
+media/musician1617.png
 
 Jonny
 

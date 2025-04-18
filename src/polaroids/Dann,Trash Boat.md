@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1843.png"]
+Image_Src: ["media/musician1843.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dann"]
 Band_Name: ["Trash Boat"]
 ---
-assets/images/musician1843.png
+media/musician1843.png
 
 Dann
 

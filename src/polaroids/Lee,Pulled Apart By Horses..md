@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0171.png"]
+Image_Src: ["media/musician0171.png"]
 Hover_Image_Src: null
 Musician_Name: ["Lee"]
 Band_Name: ["Pulled Apart By Horses."]
 ---
-assets/images/musician0171.png
+media/musician0171.png
 
 Lee
 

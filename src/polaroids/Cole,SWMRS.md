@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1835.png"]
+Image_Src: ["media/musician1835.png"]
 Hover_Image_Src: null
 Musician_Name: ["Cole"]
 Band_Name: ["SWMRS"]
 ---
-assets/images/musician1835.png
+media/musician1835.png
 
 Cole
 

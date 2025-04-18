@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0130.png"]
+Image_Src: ["media/musician0130.png"]
 Hover_Image_Src: null
 Musician_Name: ["Darren"]
 Band_Name: ["We Have Band."]
 ---
-assets/images/musician0130.png
+media/musician0130.png
 
 Darren
 

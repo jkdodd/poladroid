@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2234.png"]
+Image_Src: ["media/musician2234.png"]
 Hover_Image_Src: null
 Musician_Name: ["Becca"]
 Band_Name: ["Marmozets"]
 ---
-assets/images/musician2234.png
+media/musician2234.png
 
 Becca
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1423.png"]
+Image_Src: ["media/musician1423.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sam"]
 Band_Name: ["FTSE"]
 ---
-assets/images/musician1423.png
+media/musician1423.png
 
 Sam
 

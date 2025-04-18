@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2001.png"]
+Image_Src: ["media/musician2001.png"]
 Hover_Image_Src: null
 Musician_Name: ["Danny"]
 Band_Name: ["Dead Arms"]
 ---
-assets/images/musician2001.png
+media/musician2001.png
 
 Danny
 

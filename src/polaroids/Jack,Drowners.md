@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0935.png"]
+Image_Src: ["media/musician0935.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jack"]
 Band_Name: ["Drowners"]
 ---
-assets/images/musician0935.png
+media/musician0935.png
 
 Jack
 

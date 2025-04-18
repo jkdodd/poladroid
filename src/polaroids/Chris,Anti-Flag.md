@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2330.png"]
+Image_Src: ["media/musician2330.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chris"]
 Band_Name: ["Anti-Flag"]
 ---
-assets/images/musician2330.png
+media/musician2330.png
 
 Chris
 

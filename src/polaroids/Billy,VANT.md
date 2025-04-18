@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1140.png"]
+Image_Src: ["media/musician1140.png"]
 Hover_Image_Src: null
 Musician_Name: ["Billy"]
 Band_Name: ["VANT"]
 ---
-assets/images/musician1140.png
+media/musician1140.png
 
 Billy
 

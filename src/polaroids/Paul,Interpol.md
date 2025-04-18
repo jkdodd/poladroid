@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2524.png"]
+Image_Src: ["media/musician2524.png"]
 Hover_Image_Src: null
 Musician_Name: ["Paul"]
 Band_Name: ["Interpol"]
 ---
-assets/images/musician2524.png
+media/musician2524.png
 
 Paul
 

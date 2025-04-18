@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0074.png"]
+Image_Src: ["media/musician0074.png"]
 Hover_Image_Src: null
 Musician_Name: ["Charlie"]
 Band_Name: ["The Rumble Strips."]
 ---
-assets/images/musician0074.png
+media/musician0074.png
 
 Charlie
 

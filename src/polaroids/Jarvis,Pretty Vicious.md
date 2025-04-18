@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1439.png"]
+Image_Src: ["media/musician1439.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jarvis"]
 Band_Name: ["Pretty Vicious"]
 ---
-assets/images/musician1439.png
+media/musician1439.png
 
 Jarvis
 

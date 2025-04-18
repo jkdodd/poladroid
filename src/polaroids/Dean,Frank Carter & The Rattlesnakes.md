@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1354.png"]
+Image_Src: ["media/musician1354.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dean"]
 Band_Name: ["Frank Carter & The Rattlesnakes"]
 ---
-assets/images/musician1354.png
+media/musician1354.png
 
 Dean
 

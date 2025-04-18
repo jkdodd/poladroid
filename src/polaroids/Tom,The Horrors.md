@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0923.png"]
+Image_Src: ["media/musician0923.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom"]
 Band_Name: ["The Horrors"]
 ---
-assets/images/musician0923.png
+media/musician0923.png
 
 Tom
 

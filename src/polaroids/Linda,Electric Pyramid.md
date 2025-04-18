@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1923.png"]
+Image_Src: ["media/musician1923.png"]
 Hover_Image_Src: null
 Musician_Name: ["Linda"]
 Band_Name: ["Electric Pyramid"]
 ---
-assets/images/musician1923.png
+media/musician1923.png
 
 Linda
 

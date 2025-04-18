@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0769.png"]
+Image_Src: ["media/musician0769.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jack"]
 Band_Name: ["Bombay Bicycle Club"]
 ---
-assets/images/musician0769.png
+media/musician0769.png
 
 Jack
 

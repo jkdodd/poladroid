@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2148.png"]
+Image_Src: ["media/musician2148.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom"]
 Band_Name: ["Plastic Mermaids"]
 ---
-assets/images/musician2148.png
+media/musician2148.png
 
 Tom
 

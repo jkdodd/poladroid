@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1249.png"]
+Image_Src: ["media/musician1249.png"]
 Hover_Image_Src: null
 Musician_Name: ["Amina"]
 Band_Name: ["FURS"]
 ---
-assets/images/musician1249.png
+media/musician1249.png
 
 Amina
 

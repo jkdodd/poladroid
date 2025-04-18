@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0920.png"]
+Image_Src: ["media/musician0920.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tad"]
 Band_Name: ["The Hold Steady"]
 ---
-assets/images/musician0920.png
+media/musician0920.png
 
 Tad
 

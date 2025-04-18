@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0680.png"]
+Image_Src: ["media/musician0680.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jordan"]
 Band_Name: ["Rizzle Kicks"]
 ---
-assets/images/musician0680.png
+media/musician0680.png
 
 Jordan
 

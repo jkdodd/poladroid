@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1076.png"]
+Image_Src: ["media/musician1076.png"]
 Hover_Image_Src: null
 Musician_Name: ["Darren"]
 Band_Name: ["Beardyman"]
 ---
-assets/images/musician1076.png
+media/musician1076.png
 
 Darren
 

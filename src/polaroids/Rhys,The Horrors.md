@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0925.png"]
+Image_Src: ["media/musician0925.png"]
 Hover_Image_Src: null
 Musician_Name: ["Rhys"]
 Band_Name: ["The Horrors"]
 ---
-assets/images/musician0925.png
+media/musician0925.png
 
 Rhys
 

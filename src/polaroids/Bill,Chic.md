@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0545.png"]
+Image_Src: ["media/musician0545.png"]
 Hover_Image_Src: null
 Musician_Name: ["Bill"]
 Band_Name: ["Chic"]
 ---
-assets/images/musician0545.png
+media/musician0545.png
 
 Bill
 

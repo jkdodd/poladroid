@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1514.png"]
+Image_Src: ["media/musician1514.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andrew"]
 Band_Name: ["Arcane Roots"]
 ---
-assets/images/musician1514.png
+media/musician1514.png
 
 Andrew
 

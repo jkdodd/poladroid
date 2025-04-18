@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0955.png"]
+Image_Src: ["media/musician0955.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ryan"]
 Band_Name: ["Reverend and The Makers"]
 ---
-assets/images/musician0955.png
+media/musician0955.png
 
 Ryan
 

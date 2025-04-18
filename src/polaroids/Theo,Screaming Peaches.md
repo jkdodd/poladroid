@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1610.png"]
+Image_Src: ["media/musician1610.png"]
 Hover_Image_Src: null
 Musician_Name: ["Theo"]
 Band_Name: ["Screaming Peaches"]
 ---
-assets/images/musician1610.png
+media/musician1610.png
 
 Theo
 

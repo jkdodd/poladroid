@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician1240.png"]
+Image_Src: ["media/musician1240.png"]
 Hover_Image_Src: null
 Musician_Name: ["Itch"]
 Band_Name: null
 ---
-assets/images/musician1240.png
+media/musician1240.png
 
 Itch

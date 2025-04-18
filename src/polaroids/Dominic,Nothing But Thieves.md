@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1806.png"]
+Image_Src: ["media/musician1806.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dominic"]
 Band_Name: ["Nothing But Thieves"]
 ---
-assets/images/musician1806.png
+media/musician1806.png
 
 Dominic
 

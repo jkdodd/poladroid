@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1137.png"]
+Image_Src: ["media/musician1137.png"]
 Hover_Image_Src: null
 Musician_Name: ["Martin"]
 Band_Name: ["VANT>"]
 ---
-assets/images/musician1137.png
+media/musician1137.png
 
 Martin
 

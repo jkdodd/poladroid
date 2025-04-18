@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1078.png"]
+Image_Src: ["media/musician1078.png"]
 Hover_Image_Src: null
 Musician_Name: ["Blindboy Boatclub"]
 Band_Name: ["The Rubberbandits"]
 ---
-assets/images/musician1078.png
+media/musician1078.png
 
 Blindboy Boatclub
 

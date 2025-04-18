@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0658.png"]
+Image_Src: ["media/musician0658.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andy"]
 Band_Name: ["Fall Out Boy"]
 ---
-assets/images/musician0658.png
+media/musician0658.png
 
 Andy
 

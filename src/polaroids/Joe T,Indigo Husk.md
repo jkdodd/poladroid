@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1934.png"]
+Image_Src: ["media/musician1934.png"]
 Hover_Image_Src: null
 Musician_Name: ["Joe T"]
 Band_Name: ["Indigo Husk"]
 ---
-assets/images/musician1934.png
+media/musician1934.png
 
 Joe T
 

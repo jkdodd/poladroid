@@ -1,0 +1,213 @@
+---
+title: My first page
+layout: base.njk
+---
+
+<main>
+    <header>
+        <h1>
+                    Polaroids Of Folk That Make Music
+                    <span>© James Perou</span>
+        </h1>
+        <ul>
+            <li>
+                <button class="search">Search</button>
+            </li>
+            <li>
+                <a href="#">Email</a>
+            </li>
+            <li>
+                <a href="#">Instagram</a>
+            </li>
+        </ul>
+    </header>
+    <section>
+
+        <ul class="list">
+        {% for post in collections.polaroids %}
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="{{ post.data.Image_Src }}" onmouseover="this.src= '{{ post.data.Hover_Image_Src }}'" onmouseout="this.src='{{ post.data.Image_Src }}'" alt="">
+                    <figcaption>
+                        <h2>
+                            {{ post.data.Musician_Name }}
+                            <span>{{ post.data.Band_Name }}</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+        {% endfor %}
+        </ul>
+
+        {# <ul class="list">
+            <li>
+                <figure>
+                    <img width="300" height="365" alt="" src="/media/musician2525.png" loading="lazy"/>
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" alt="" src="/media/musician2524.png" loading="lazy"/>
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="/media/musician2523.1.png" onmouseover="this.src= 'media/musician2523.1.png'" onmouseout="this.src='media/musician2523.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" alt="" src="/media/musician2522.png" loading="lazy"/>
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" alt="" src="/media/musician2521.png" loading="lazy"/>
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="/media/musician2520.1.png" onmouseover="this.src= 'media/musician2520.1.png'" onmouseout="this.src='media/musician2520.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" alt="" src="/media/musician2519.png" loading="lazy"/>
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" alt="" src="/media/musician2518.png" loading="lazy"/>
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" alt="" src="/media/musician2517.png" loading="lazy" onmouseover="this.src= 'media/musician2517.1.png'" onmouseout="this.src='media/musician2517.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="/media/musician2516.1.png" onmouseover="this.src= 'media/musician2516.1.png'" onmouseout="this.src='media/musician2516.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="/media/musician2515.1.png" onmouseover="this.src= 'media/musician2515.1.png'" onmouseout="this.src='media/musician2515.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="/media/musician2514.1.png" onmouseover="this.src= 'media/musician2514.1.png'" onmouseout="this.src='media/musician2514.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="/media/musician2513.1.png" onmouseover="this.src= 'media/musician2513.1.png'" onmouseout="this.src='media/musician2513.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="/media/musician2512.1.png" onmouseover="this.src= 'media/musician2512.1.png'" onmouseout="this.src='media/musician2512.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img width="300" height="365" loading="lazy" src="/media/musician2511.1.png" onmouseover="this.src= 'media/musician2511.1.png'" onmouseout="this.src='media/musician2511.png'" alt="">
+                    <figcaption>
+                        <h2>
+                                    Musician Name
+                                    <span>Band Name</span>
+                        </h2>
+                    </figcaption>
+                </figure>
+            </li>
+        </ul> #}
+    </section>
+</main>
+
+<!-- your content here... -->
+<script src="js/scripts.js"></script>

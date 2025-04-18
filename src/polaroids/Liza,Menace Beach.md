@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0893.png"]
+Image_Src: ["media/musician0893.png"]
 Hover_Image_Src: null
 Musician_Name: ["Liza"]
 Band_Name: ["Menace Beach"]
 ---
-assets/images/musician0893.png
+media/musician0893.png
 
 Liza
 

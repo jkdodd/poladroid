@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician2309.png"]
-Hover_Image_Src: ["assets/images/musician2309.1.png"]
+Image_Src: ["media/musician2309.png"]
+Hover_Image_Src: ["media/musician2309.1.png"]
 Musician_Name: ["Giles"]
 Band_Name: ["Leif Erikson"]
 ---
-assets/images/musician2309.png
+media/musician2309.png
 
-assets/images/musician2309.1.png
+media/musician2309.1.png
 
 Giles
 

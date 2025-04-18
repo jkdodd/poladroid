@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2298.png"]
+Image_Src: ["media/musician2298.png"]
 Hover_Image_Src: null
 Musician_Name: ["Lilah"]
 Band_Name: ["Sons of an Illustrious Father"]
 ---
-assets/images/musician2298.png
+media/musician2298.png
 
 Lilah
 

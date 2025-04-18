@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician2351.png"]
-Hover_Image_Src: ["assets/images/musician2351.1.png"]
+Image_Src: ["media/musician2351.png"]
+Hover_Image_Src: ["media/musician2351.1.png"]
 Musician_Name: ["Michelle"]
 Band_Name: ["Japanese Breakfast"]
 ---
-assets/images/musician2351.png
+media/musician2351.png
 
-assets/images/musician2351.1.png
+media/musician2351.1.png
 
 Michelle
 

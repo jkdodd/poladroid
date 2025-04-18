@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1456.png"]
+Image_Src: ["media/musician1456.png"]
 Hover_Image_Src: null
 Musician_Name: ["Liam"]
 Band_Name: ["We Are The Ocean"]
 ---
-assets/images/musician1456.png
+media/musician1456.png
 
 Liam
 

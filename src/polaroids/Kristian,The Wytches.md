@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0927.png"]
+Image_Src: ["media/musician0927.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kristian"]
 Band_Name: ["The Wytches"]
 ---
-assets/images/musician0927.png
+media/musician0927.png
 
 Kristian
 

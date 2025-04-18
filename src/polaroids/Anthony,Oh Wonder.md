@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1616.png"]
+Image_Src: ["media/musician1616.png"]
 Hover_Image_Src: null
 Musician_Name: ["Anthony"]
 Band_Name: ["Oh Wonder"]
 ---
-assets/images/musician1616.png
+media/musician1616.png
 
 Anthony
 

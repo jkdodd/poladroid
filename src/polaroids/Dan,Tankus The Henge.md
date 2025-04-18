@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0819.png"]
+Image_Src: ["media/musician0819.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dan"]
 Band_Name: ["Tankus The Henge"]
 ---
-assets/images/musician0819.png
+media/musician0819.png
 
 Dan
 

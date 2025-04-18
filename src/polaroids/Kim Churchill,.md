@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician0828.png"]
+Image_Src: ["media/musician0828.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kim Churchill"]
 Band_Name: null
 ---
-assets/images/musician0828.png
+media/musician0828.png
 
 Kim Churchill

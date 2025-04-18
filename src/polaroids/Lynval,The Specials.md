@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician0270.png"]
-Hover_Image_Src: ["assets/images/musician1126.png"]
+Image_Src: ["media/musician0270.png"]
+Hover_Image_Src: ["media/musician1126.png"]
 Musician_Name: ["Lynval"]
 Band_Name: ["The Specials"]
 ---
-assets/images/musician0270.png
+media/musician0270.png
 
-assets/images/musician1126.png
+media/musician1126.png
 
 Lynval
 

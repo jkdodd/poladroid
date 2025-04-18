@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0185.png"]
+Image_Src: ["media/musician0185.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andrew"]
 Band_Name: ["Capdown."]
 ---
-assets/images/musician0185.png
+media/musician0185.png
 
 Andrew
 

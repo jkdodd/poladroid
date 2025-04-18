@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2208.png"]
+Image_Src: ["media/musician2208.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jason"]
 Band_Name: ["WSTR"]
 ---
-assets/images/musician2208.png
+media/musician2208.png
 
 Jason
 

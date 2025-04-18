@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1455.png"]
+Image_Src: ["media/musician1455.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jack"]
 Band_Name: ["We Are The Ocean"]
 ---
-assets/images/musician1455.png
+media/musician1455.png
 
 Jack
 

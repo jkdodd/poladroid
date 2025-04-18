@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0954.png"]
+Image_Src: ["media/musician0954.png"]
 Hover_Image_Src: null
 Musician_Name: ["Joe"]
 Band_Name: ["Reverend and The Makers"]
 ---
-assets/images/musician0954.png
+media/musician0954.png
 
 Joe
 

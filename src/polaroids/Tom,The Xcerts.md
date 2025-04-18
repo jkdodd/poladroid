@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1733.png"]
+Image_Src: ["media/musician1733.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom"]
 Band_Name: ["The Xcerts"]
 ---
-assets/images/musician1733.png
+media/musician1733.png
 
 Tom
 

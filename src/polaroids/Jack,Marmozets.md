@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2237.png"]
+Image_Src: ["media/musician2237.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jack"]
 Band_Name: ["Marmozets"]
 ---
-assets/images/musician2237.png
+media/musician2237.png
 
 Jack
 

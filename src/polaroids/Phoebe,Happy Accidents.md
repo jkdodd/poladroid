@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1810.png"]
+Image_Src: ["media/musician1810.png"]
 Hover_Image_Src: null
 Musician_Name: ["Phoebe"]
 Band_Name: ["Happy Accidents"]
 ---
-assets/images/musician1810.png
+media/musician1810.png
 
 Phoebe
 

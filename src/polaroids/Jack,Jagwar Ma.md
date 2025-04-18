@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2027.png"]
+Image_Src: ["media/musician2027.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jack"]
 Band_Name: ["Jagwar Ma"]
 ---
-assets/images/musician2027.png
+media/musician2027.png
 
 Jack
 

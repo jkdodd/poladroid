@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0517.png"]
+Image_Src: ["media/musician0517.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jeshua"]
 Band_Name: ["Larry and His Flask"]
 ---
-assets/images/musician0517.png
+media/musician0517.png
 
 Jeshua
 

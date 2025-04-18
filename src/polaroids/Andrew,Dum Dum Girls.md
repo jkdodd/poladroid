@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0875.png"]
+Image_Src: ["media/musician0875.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andrew"]
 Band_Name: ["Dum Dum Girls"]
 ---
-assets/images/musician0875.png
+media/musician0875.png
 
 Andrew
 

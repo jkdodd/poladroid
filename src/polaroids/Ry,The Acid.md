@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0938.png"]
+Image_Src: ["media/musician0938.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ry"]
 Band_Name: ["The Acid"]
 ---
-assets/images/musician0938.png
+media/musician0938.png
 
 Ry
 

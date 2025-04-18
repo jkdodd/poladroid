@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0327.png"]
+Image_Src: ["media/musician0327.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andrew"]
 Band_Name: ["Kids in Glass Houses"]
 ---
-assets/images/musician0327.png
+media/musician0327.png
 
 Andrew
 

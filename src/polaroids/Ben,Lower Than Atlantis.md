@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1866.png"]
+Image_Src: ["media/musician1866.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ben"]
 Band_Name: ["Lower Than Atlantis"]
 ---
-assets/images/musician1866.png
+media/musician1866.png
 
 Ben
 

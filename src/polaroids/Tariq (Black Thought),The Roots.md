@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1338.png"]
+Image_Src: ["media/musician1338.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tariq (Black Thought)"]
 Band_Name: ["The Roots"]
 ---
-assets/images/musician1338.png
+media/musician1338.png
 
 Tariq (Black Thought)
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1203.png"]
+Image_Src: ["media/musician1203.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mykal"]
 Band_Name: ["Scott Bradlee & Postmodern Jukebox"]
 ---
-assets/images/musician1203.png
+media/musician1203.png
 
 Mykal
 

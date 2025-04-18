@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1845.png"]
+Image_Src: ["media/musician1845.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tobi"]
 Band_Name: ["Trash Boat"]
 ---
-assets/images/musician1845.png
+media/musician1845.png
 
 Tobi
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1385.png"]
+Image_Src: ["media/musician1385.png"]
 Hover_Image_Src: null
 Musician_Name: ["Robby"]
 Band_Name: ["The Districts"]
 ---
-assets/images/musician1385.png
+media/musician1385.png
 
 Robby
 

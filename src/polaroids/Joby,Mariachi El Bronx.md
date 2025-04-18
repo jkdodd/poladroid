@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1175.png"]
+Image_Src: ["media/musician1175.png"]
 Hover_Image_Src: null
 Musician_Name: ["Joby"]
 Band_Name: ["Mariachi El Bronx"]
 ---
-assets/images/musician1175.png
+media/musician1175.png
 
 Joby
 

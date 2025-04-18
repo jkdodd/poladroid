@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician2170.png"]
+Image_Src: ["media/musician2170.png"]
 Hover_Image_Src: null
 Musician_Name: ["Pape Oumar Diagne"]
 Band_Name: null
 ---
-assets/images/musician2170.png
+media/musician2170.png
 
 Pape Oumar Diagne

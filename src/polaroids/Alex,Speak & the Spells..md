@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0143.png"]
+Image_Src: ["media/musician0143.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alex"]
 Band_Name: ["Speak & the Spells."]
 ---
-assets/images/musician0143.png
+media/musician0143.png
 
 Alex
 

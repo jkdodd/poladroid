@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0599.png"]
+Image_Src: ["media/musician0599.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kevin"]
 Band_Name: ["Surfer Blood"]
 ---
-assets/images/musician0599.png
+media/musician0599.png
 
 Kevin
 

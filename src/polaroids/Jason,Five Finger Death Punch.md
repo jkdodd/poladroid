@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1759.png"]
+Image_Src: ["media/musician1759.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jason"]
 Band_Name: ["Five Finger Death Punch"]
 ---
-assets/images/musician1759.png
+media/musician1759.png
 
 Jason
 

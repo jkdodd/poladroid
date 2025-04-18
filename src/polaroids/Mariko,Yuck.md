@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0708.png"]
+Image_Src: ["media/musician0708.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mariko"]
 Band_Name: ["Yuck"]
 ---
-assets/images/musician0708.png
+media/musician0708.png
 
 Mariko
 

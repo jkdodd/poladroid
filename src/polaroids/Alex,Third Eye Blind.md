@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1795.png"]
+Image_Src: ["media/musician1795.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alex"]
 Band_Name: ["Third Eye Blind"]
 ---
-assets/images/musician1795.png
+media/musician1795.png
 
 Alex
 

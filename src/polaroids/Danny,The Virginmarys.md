@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1753.png"]
+Image_Src: ["media/musician1753.png"]
 Hover_Image_Src: null
 Musician_Name: ["Danny"]
 Band_Name: ["The Virginmarys"]
 ---
-assets/images/musician1753.png
+media/musician1753.png
 
 Danny
 

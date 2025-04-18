@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1260.png"]
+Image_Src: ["media/musician1260.png"]
 Hover_Image_Src: null
 Musician_Name: ["High Ku"]
 Band_Name: ["Chinese Man"]
 ---
-assets/images/musician1260.png
+media/musician1260.png
 
 High Ku
 

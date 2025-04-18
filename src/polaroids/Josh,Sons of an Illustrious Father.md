@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2299.png"]
+Image_Src: ["media/musician2299.png"]
 Hover_Image_Src: null
 Musician_Name: ["Josh"]
 Band_Name: ["Sons of an Illustrious Father"]
 ---
-assets/images/musician2299.png
+media/musician2299.png
 
 Josh
 

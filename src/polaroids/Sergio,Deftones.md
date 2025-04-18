@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1677.png"]
+Image_Src: ["media/musician1677.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sergio"]
 Band_Name: ["Deftones"]
 ---
-assets/images/musician1677.png
+media/musician1677.png
 
 Sergio
 

@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician1412.png"]
+Image_Src: ["media/musician1412.png"]
 Hover_Image_Src: null
 Musician_Name: ["Remi Miles"]
 Band_Name: null
 ---
-assets/images/musician1412.png
+media/musician1412.png
 
 Remi Miles

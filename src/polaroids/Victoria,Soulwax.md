@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician2162.png"]
+Image_Src: ["media/musician2162.png"]
 Hover_Image_Src: null
 Musician_Name: ["Victoria"]
 Band_Name: ["Soulwax"]
 ---
-assets/images/musician2162.png
+media/musician2162.png
 
 Victoria
 

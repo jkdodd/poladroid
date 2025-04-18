@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0900.png"]
+Image_Src: ["media/musician0900.png"]
 Hover_Image_Src: null
 Musician_Name: ["Shona"]
 Band_Name: ["Honeyblood"]
 ---
-assets/images/musician0900.png
+media/musician0900.png
 
 Shona
 

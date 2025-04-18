@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1986.png"]
+Image_Src: ["media/musician1986.png"]
 Hover_Image_Src: null
 Musician_Name: ["Casey"]
 Band_Name: ["The Wonder Years"]
 ---
-assets/images/musician1986.png
+media/musician1986.png
 
 Casey
 

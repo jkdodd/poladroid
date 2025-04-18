@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1471.png"]
+Image_Src: ["media/musician1471.png"]
 Hover_Image_Src: null
 Musician_Name: ["Liam"]
 Band_Name: ["Cancer Bats"]
 ---
-assets/images/musician1471.png
+media/musician1471.png
 
 Liam
 

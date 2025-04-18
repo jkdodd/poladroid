@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician1849.png"]
+Image_Src: ["media/musician1849.png"]
 Hover_Image_Src: null
 Musician_Name: ["Luke"]
 Band_Name: ["Muncie Girls"]
 ---
-assets/images/musician1849.png
+media/musician1849.png
 
 Luke
 

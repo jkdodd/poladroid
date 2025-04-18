@@ -1,10 +1,10 @@
 ---
-Image_Src: ["assets/images/musician0901.png"]
+Image_Src: ["media/musician0901.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mike"]
 Band_Name: ["Royal Blood"]
 ---
-assets/images/musician0901.png
+media/musician0901.png
 
 Mike
 

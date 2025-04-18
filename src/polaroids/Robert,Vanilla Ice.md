@@ -1,12 +1,12 @@
 ---
-Image_Src: ["assets/images/musician2325.png"]
-Hover_Image_Src: ["assets/images/musician2325.1.png"]
+Image_Src: ["media/musician2325.png"]
+Hover_Image_Src: ["media/musician2325.1.png"]
 Musician_Name: ["Robert"]
 Band_Name: ["Vanilla Ice"]
 ---
-assets/images/musician2325.png
+media/musician2325.png
 
-assets/images/musician2325.1.png
+media/musician2325.1.png
 
 Robert
 

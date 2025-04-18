@@ -1,9 +1,9 @@
 ---
-Image_Src: ["assets/images/musician0527.png"]
+Image_Src: ["media/musician0527.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alice Francis"]
 Band_Name: null
 ---
-assets/images/musician0527.png
+media/musician0527.png
 
 Alice Francis
