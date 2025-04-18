@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1967.png"]
+Image_Src: ["assets/images/musician1967.png"]
 Hover_Image_Src: null
 Musician_Name: ["Isaac"]
 Band_Name: ["Nervous Conditions"]
 ---
-/media/musician1967.png
+assets/images/musician1967.png
 
 Isaac
 

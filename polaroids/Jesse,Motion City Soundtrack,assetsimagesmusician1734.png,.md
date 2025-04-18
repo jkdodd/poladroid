@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1734.png"]
+Image_Src: ["assets/images/musician1734.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jesse"]
 Band_Name: ["Motion City Soundtrack"]
 ---
-/media/musician1734.png
+assets/images/musician1734.png
 
 Jesse
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0149.png"]
+Image_Src: ["assets/images/musician0149.png"]
 Hover_Image_Src: null
 Musician_Name: ["Klara"]
 Band_Name: ["First Aid Kit."]
 ---
-/media/musician0149.png
+assets/images/musician0149.png
 
 Klara
 

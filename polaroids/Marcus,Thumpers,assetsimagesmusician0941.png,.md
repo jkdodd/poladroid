@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0941.png"]
+Image_Src: ["assets/images/musician0941.png"]
 Hover_Image_Src: null
 Musician_Name: ["Marcus"]
 Band_Name: ["Thumpers"]
 ---
-/media/musician0941.png
+assets/images/musician0941.png
 
 Marcus
 

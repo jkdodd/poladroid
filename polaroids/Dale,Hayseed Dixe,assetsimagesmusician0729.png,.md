@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0729.png"]
+Image_Src: ["assets/images/musician0729.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dale"]
 Band_Name: ["Hayseed Dixe"]
 ---
-/media/musician0729.png
+assets/images/musician0729.png
 
 Dale
 

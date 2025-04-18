@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0609.png"]
+Image_Src: ["assets/images/musician0609.png"]
 Hover_Image_Src: null
 Musician_Name: ["Cavan"]
 Band_Name: ["Swim Deep"]
 ---
-/media/musician0609.png
+assets/images/musician0609.png
 
 Cavan
 

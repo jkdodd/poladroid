@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1075.png"]
+Image_Src: ["assets/images/musician1075.png"]
 Hover_Image_Src: null
 Musician_Name: ["Scott"]
 Band_Name: ["The Amazing Snakeheads"]
 ---
-/media/musician1075.png
+assets/images/musician1075.png
 
 Scott
 

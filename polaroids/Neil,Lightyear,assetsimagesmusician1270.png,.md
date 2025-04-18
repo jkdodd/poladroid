@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1270.png"]
+Image_Src: ["assets/images/musician1270.png"]
 Hover_Image_Src: null
 Musician_Name: ["Neil"]
 Band_Name: ["Lightyear"]
 ---
-/media/musician1270.png
+assets/images/musician1270.png
 
 Neil
 

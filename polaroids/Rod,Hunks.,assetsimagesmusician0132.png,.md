@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0132.png"]
+Image_Src: ["assets/images/musician0132.png"]
 Hover_Image_Src: null
 Musician_Name: ["Rod"]
 Band_Name: ["Hunks."]
 ---
-/media/musician0132.png
+assets/images/musician0132.png
 
 Rod
 

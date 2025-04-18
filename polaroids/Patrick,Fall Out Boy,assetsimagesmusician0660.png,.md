@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0660.png"]
+Image_Src: ["assets/images/musician0660.png"]
 Hover_Image_Src: null
 Musician_Name: ["Patrick"]
 Band_Name: ["Fall Out Boy"]
 ---
-/media/musician0660.png
+assets/images/musician0660.png
 
 Patrick
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2016.png"]
+Image_Src: ["assets/images/musician2016.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matt"]
 Band_Name: ["Gentleman's Dub Club"]
 ---
-/media/musician2016.png
+assets/images/musician2016.png
 
 Matt
 

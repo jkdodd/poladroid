@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0633.png"]
+Image_Src: ["assets/images/musician0633.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ben"]
 Band_Name: ["Imagine Dragons"]
 ---
-/media/musician0633.png
+assets/images/musician0633.png
 
 Ben
 

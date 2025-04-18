@@ -1,12 +1,12 @@
 ---
-Image_Src: ["/media/musician2338.png"]
-Hover_Image_Src: ["/media/musician2338.1.png"]
+Image_Src: ["assets/images/musician2338.png"]
+Hover_Image_Src: ["assets/images/musician2338.1.png"]
 Musician_Name: ["Rivers"]
 Band_Name: ["Weezer"]
 ---
-/media/musician2338.png
+assets/images/musician2338.png
 
-/media/musician2338.1.png
+assets/images/musician2338.1.png
 
 Rivers
 

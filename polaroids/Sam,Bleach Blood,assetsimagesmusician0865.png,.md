@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0865.png"]
+Image_Src: ["assets/images/musician0865.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sam"]
 Band_Name: ["Bleach Blood"]
 ---
-/media/musician0865.png
+assets/images/musician0865.png
 
 Sam
 

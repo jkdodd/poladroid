@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1170.png"]
+Image_Src: ["assets/images/musician1170.png"]
 Hover_Image_Src: null
 Musician_Name: ["Camilla"]
 Band_Name: ["The Staves"]
 ---
-/media/musician1170.png
+assets/images/musician1170.png
 
 Camilla
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1012.png"]
+Image_Src: ["assets/images/musician1012.png"]
 Hover_Image_Src: null
 Musician_Name: ["Gustav"]
 Band_Name: ["Young Guns"]
 ---
-/media/musician1012.png
+assets/images/musician1012.png
 
 Gustav
 

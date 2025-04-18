@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0353.png"]
+Image_Src: ["assets/images/musician0353.png"]
 Hover_Image_Src: null
 Musician_Name: ["Swanimaru / Honey / K-Rox"]
 Band_Name: ["Gaggle"]
 ---
-/media/musician0353.png
+assets/images/musician0353.png
 
 Swanimaru / Honey / K-Rox
 

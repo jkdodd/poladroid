@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0688.png"]
+Image_Src: ["assets/images/musician0688.png"]
 Hover_Image_Src: null
 Musician_Name: ["George"]
 Band_Name: ["The 1975"]
 ---
-/media/musician0688.png
+assets/images/musician0688.png
 
 George
 

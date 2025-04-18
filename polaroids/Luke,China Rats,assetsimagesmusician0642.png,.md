@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0642.png"]
+Image_Src: ["assets/images/musician0642.png"]
 Hover_Image_Src: null
 Musician_Name: ["Luke"]
 Band_Name: ["China Rats"]
 ---
-/media/musician0642.png
+assets/images/musician0642.png
 
 Luke
 

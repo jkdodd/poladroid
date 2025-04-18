@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0092.png"]
+Image_Src: ["assets/images/musician0092.png"]
 Hover_Image_Src: null
 Musician_Name: ["Brian (Robot)"]
 Band_Name: ["Suburban Legends."]
 ---
-/media/musician0092.png
+assets/images/musician0092.png
 
 Brian (Robot)
 

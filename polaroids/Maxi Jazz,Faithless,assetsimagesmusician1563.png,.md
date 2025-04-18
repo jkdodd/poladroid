@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1563.png"]
+Image_Src: ["assets/images/musician1563.png"]
 Hover_Image_Src: null
 Musician_Name: ["Maxi Jazz"]
 Band_Name: ["Faithless"]
 ---
-/media/musician1563.png
+assets/images/musician1563.png
 
 Maxi Jazz
 

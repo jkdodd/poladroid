@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0036.png"]
+Image_Src: ["assets/images/musician0036.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom"]
 Band_Name: ["Super Tennis."]
 ---
-/media/musician0036.png
+assets/images/musician0036.png
 
 Tom
 

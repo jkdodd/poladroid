@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0610.png"]
+Image_Src: ["assets/images/musician0610.png"]
 Hover_Image_Src: null
 Musician_Name: ["Austin"]
 Band_Name: ["Swim Deep"]
 ---
-/media/musician0610.png
+assets/images/musician0610.png
 
 Austin
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0457.png"]
+Image_Src: ["assets/images/musician0457.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chris"]
 Band_Name: ["The Heavy"]
 ---
-/media/musician0457.png
+assets/images/musician0457.png
 
 Chris
 

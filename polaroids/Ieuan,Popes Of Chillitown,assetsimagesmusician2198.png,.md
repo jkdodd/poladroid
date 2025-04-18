@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2198.png"]
+Image_Src: ["assets/images/musician2198.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ieuan"]
 Band_Name: ["Popes Of Chillitown"]
 ---
-/media/musician2198.png
+assets/images/musician2198.png
 
 Ieuan
 

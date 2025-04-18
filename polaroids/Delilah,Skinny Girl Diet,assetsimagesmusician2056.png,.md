@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2056.png"]
+Image_Src: ["assets/images/musician2056.png"]
 Hover_Image_Src: null
 Musician_Name: ["Delilah"]
 Band_Name: ["Skinny Girl Diet"]
 ---
-/media/musician2056.png
+assets/images/musician2056.png
 
 Delilah
 

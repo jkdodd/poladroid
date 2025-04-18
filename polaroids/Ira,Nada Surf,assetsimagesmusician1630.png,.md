@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1630.png"]
+Image_Src: ["assets/images/musician1630.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ira"]
 Band_Name: ["Nada Surf"]
 ---
-/media/musician1630.png
+assets/images/musician1630.png
 
 Ira
 

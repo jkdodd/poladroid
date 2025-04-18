@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0592.png"]
+Image_Src: ["assets/images/musician0592.png"]
 Hover_Image_Src: null
 Musician_Name: ["Josh"]
 Band_Name: ["To Kill A King"]
 ---
-/media/musician0592.png
+assets/images/musician0592.png
 
 Josh
 

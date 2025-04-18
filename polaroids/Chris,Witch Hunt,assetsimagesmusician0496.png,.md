@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0496.png"]
+Image_Src: ["assets/images/musician0496.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chris"]
 Band_Name: ["Witch Hunt"]
 ---
-/media/musician0496.png
+assets/images/musician0496.png
 
 Chris
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0906.png"]
+Image_Src: ["assets/images/musician0906.png"]
 Hover_Image_Src: null
 Musician_Name: ["David"]
 Band_Name: ["I Like Trains"]
 ---
-/media/musician0906.png
+assets/images/musician0906.png
 
 David
 

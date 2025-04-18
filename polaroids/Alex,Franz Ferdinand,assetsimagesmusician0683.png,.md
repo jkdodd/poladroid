@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0683.png"]
+Image_Src: ["assets/images/musician0683.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alex"]
 Band_Name: ["Franz Ferdinand"]
 ---
-/media/musician0683.png
+assets/images/musician0683.png
 
 Alex
 

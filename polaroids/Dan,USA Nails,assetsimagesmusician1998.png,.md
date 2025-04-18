@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1998.png"]
+Image_Src: ["assets/images/musician1998.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dan"]
 Band_Name: ["USA Nails"]
 ---
-/media/musician1998.png
+assets/images/musician1998.png
 
 Dan
 

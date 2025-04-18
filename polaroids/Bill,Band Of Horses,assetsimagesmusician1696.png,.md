@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1696.png"]
+Image_Src: ["assets/images/musician1696.png"]
 Hover_Image_Src: null
 Musician_Name: ["Bill"]
 Band_Name: ["Band Of Horses"]
 ---
-/media/musician1696.png
+assets/images/musician1696.png
 
 Bill
 

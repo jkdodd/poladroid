@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1520.png"]
+Image_Src: ["assets/images/musician1520.png"]
 Hover_Image_Src: null
 Musician_Name: ["Pat"]
 Band_Name: ["Nathaniel Rateliff & the Night Sweats"]
 ---
-/media/musician1520.png
+assets/images/musician1520.png
 
 Pat
 

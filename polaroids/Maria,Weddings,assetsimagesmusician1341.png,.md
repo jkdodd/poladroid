@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1341.png"]
+Image_Src: ["assets/images/musician1341.png"]
 Hover_Image_Src: null
 Musician_Name: ["Maria"]
 Band_Name: ["Weddings"]
 ---
-/media/musician1341.png
+assets/images/musician1341.png
 
 Maria
 

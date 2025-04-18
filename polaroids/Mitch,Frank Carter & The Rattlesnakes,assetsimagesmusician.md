@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1355.png"]
+Image_Src: ["assets/images/musician1355.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mitch"]
 Band_Name: ["Frank Carter & The Rattlesnakes"]
 ---
-/media/musician1355.png
+assets/images/musician1355.png
 
 Mitch
 

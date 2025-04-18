@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0067.png"]
+Image_Src: ["assets/images/musician0067.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mike"]
 Band_Name: ["Streetlight Manifesto."]
 ---
-/media/musician0067.png
+assets/images/musician0067.png
 
 Mike
 

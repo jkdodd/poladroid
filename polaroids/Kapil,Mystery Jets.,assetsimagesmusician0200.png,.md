@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0200.png"]
+Image_Src: ["assets/images/musician0200.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kapil"]
 Band_Name: ["Mystery Jets."]
 ---
-/media/musician0200.png
+assets/images/musician0200.png
 
 Kapil
 

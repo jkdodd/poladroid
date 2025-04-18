@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2418.png"]
+Image_Src: ["assets/images/musician2418.png"]
 Hover_Image_Src: null
 Musician_Name: ["Maki"]
 Band_Name: ["The Go! Team"]
 ---
-/media/musician2418.png
+assets/images/musician2418.png
 
 Maki
 

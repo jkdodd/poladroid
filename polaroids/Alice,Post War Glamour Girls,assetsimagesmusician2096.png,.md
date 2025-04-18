@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2096.png"]
+Image_Src: ["assets/images/musician2096.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alice"]
 Band_Name: ["Post War Glamour Girls"]
 ---
-/media/musician2096.png
+assets/images/musician2096.png
 
 Alice
 

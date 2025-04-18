@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0393.png"]
+Image_Src: ["assets/images/musician0393.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jonathan"]
 Band_Name: ["Billy Talent"]
 ---
-/media/musician0393.png
+assets/images/musician0393.png
 
 Jonathan
 

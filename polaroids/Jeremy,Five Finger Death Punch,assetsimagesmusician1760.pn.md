@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1760.png"]
+Image_Src: ["assets/images/musician1760.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jeremy"]
 Band_Name: ["Five Finger Death Punch"]
 ---
-/media/musician1760.png
+assets/images/musician1760.png
 
 Jeremy
 

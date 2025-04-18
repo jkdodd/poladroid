@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1851.png"]
+Image_Src: ["assets/images/musician1851.png"]
 Hover_Image_Src: null
 Musician_Name: ["Lande"]
 Band_Name: ["Muncie Girls"]
 ---
-/media/musician1851.png
+assets/images/musician1851.png
 
 Lande
 

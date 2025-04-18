@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0970.png"]
+Image_Src: ["assets/images/musician0970.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jenny"]
 Band_Name: ["The Polyphonic Spree"]
 ---
-/media/musician0970.png
+assets/images/musician0970.png
 
 Jenny
 

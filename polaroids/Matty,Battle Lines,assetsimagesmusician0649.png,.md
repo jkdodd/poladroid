@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0649.png"]
+Image_Src: ["assets/images/musician0649.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matty"]
 Band_Name: ["Battle Lines"]
 ---
-/media/musician0649.png
+assets/images/musician0649.png
 
 Matty
 

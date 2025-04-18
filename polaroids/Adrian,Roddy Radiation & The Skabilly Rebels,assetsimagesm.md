@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2427.png"]
+Image_Src: ["assets/images/musician2427.png"]
 Hover_Image_Src: null
 Musician_Name: ["Adrian"]
 Band_Name: ["Roddy Radiation & The Skabilly Rebels"]
 ---
-/media/musician2427.png
+assets/images/musician2427.png
 
 Adrian
 

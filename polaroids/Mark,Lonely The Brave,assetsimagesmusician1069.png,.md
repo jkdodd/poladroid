@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1069.png"]
+Image_Src: ["assets/images/musician1069.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mark"]
 Band_Name: ["Lonely The Brave"]
 ---
-/media/musician1069.png
+assets/images/musician1069.png
 
 Mark
 

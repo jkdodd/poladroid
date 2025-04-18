@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2172.png"]
+Image_Src: ["assets/images/musician2172.png"]
 Hover_Image_Src: null
 Musician_Name: ["Hamish"]
 Band_Name: ["Girl Sweat Pleasure Temple Ritual Band"]
 ---
-/media/musician2172.png
+assets/images/musician2172.png
 
 Hamish
 

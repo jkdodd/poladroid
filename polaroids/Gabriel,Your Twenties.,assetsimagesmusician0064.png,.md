@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0064.png"]
+Image_Src: ["assets/images/musician0064.png"]
 Hover_Image_Src: null
 Musician_Name: ["Gabriel"]
 Band_Name: ["Your Twenties."]
 ---
-/media/musician0064.png
+assets/images/musician0064.png
 
 Gabriel
 

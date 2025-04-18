@@ -1,9 +1,9 @@
 ---
-Image_Src: ["/media/musician0318.png"]
+Image_Src: ["assets/images/musician0318.png"]
 Hover_Image_Src: null
 Musician_Name: ["MC Lars"]
 Band_Name: null
 ---
-/media/musician0318.png
+assets/images/musician0318.png
 
 MC Lars

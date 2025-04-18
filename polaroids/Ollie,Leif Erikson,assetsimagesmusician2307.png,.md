@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2307.png"]
+Image_Src: ["assets/images/musician2307.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ollie"]
 Band_Name: ["Leif Erikson"]
 ---
-/media/musician2307.png
+assets/images/musician2307.png
 
 Ollie
 

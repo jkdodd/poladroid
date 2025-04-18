@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1181.png"]
+Image_Src: ["assets/images/musician1181.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jack"]
 Band_Name: ["Twin Peaks"]
 ---
-/media/musician1181.png
+assets/images/musician1181.png
 
 Jack
 

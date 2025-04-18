@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2116.png"]
+Image_Src: ["assets/images/musician2116.png"]
 Hover_Image_Src: null
 Musician_Name: ["Nick"]
 Band_Name: ["Pond"]
 ---
-/media/musician2116.png
+assets/images/musician2116.png
 
 Nick
 

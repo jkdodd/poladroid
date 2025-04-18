@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0951.png"]
+Image_Src: ["assets/images/musician0951.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jennifer"]
 Band_Name: ["Bleech"]
 ---
-/media/musician0951.png
+assets/images/musician0951.png
 
 Jennifer
 

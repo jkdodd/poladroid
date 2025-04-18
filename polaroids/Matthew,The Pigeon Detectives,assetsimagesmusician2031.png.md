@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2031.png"]
+Image_Src: ["assets/images/musician2031.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matthew"]
 Band_Name: ["The Pigeon Detectives"]
 ---
-/media/musician2031.png
+assets/images/musician2031.png
 
 Matthew
 

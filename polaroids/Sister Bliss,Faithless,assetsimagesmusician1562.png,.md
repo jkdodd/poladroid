@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1562.png"]
+Image_Src: ["assets/images/musician1562.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sister Bliss"]
 Band_Name: ["Faithless"]
 ---
-/media/musician1562.png
+assets/images/musician1562.png
 
 Sister Bliss
 

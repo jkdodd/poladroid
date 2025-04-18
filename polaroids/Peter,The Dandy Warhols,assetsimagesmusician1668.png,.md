@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1668.png"]
+Image_Src: ["assets/images/musician1668.png"]
 Hover_Image_Src: null
 Musician_Name: ["Peter"]
 Band_Name: ["The Dandy Warhols"]
 ---
-/media/musician1668.png
+assets/images/musician1668.png
 
 Peter
 

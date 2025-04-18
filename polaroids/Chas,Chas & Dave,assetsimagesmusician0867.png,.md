@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0867.png"]
+Image_Src: ["assets/images/musician0867.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chas"]
 Band_Name: ["Chas & Dave"]
 ---
-/media/musician0867.png
+assets/images/musician0867.png
 
 Chas
 

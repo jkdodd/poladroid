@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0582.png"]
+Image_Src: ["assets/images/musician0582.png"]
 Hover_Image_Src: null
 Musician_Name: ["Gordon"]
 Band_Name: ["Frightened Rabbit"]
 ---
-/media/musician0582.png
+assets/images/musician0582.png
 
 Gordon
 

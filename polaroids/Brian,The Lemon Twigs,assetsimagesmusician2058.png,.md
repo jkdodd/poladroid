@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2058.png"]
+Image_Src: ["assets/images/musician2058.png"]
 Hover_Image_Src: null
 Musician_Name: ["Brian"]
 Band_Name: ["The Lemon Twigs"]
 ---
-/media/musician2058.png
+assets/images/musician2058.png
 
 Brian
 

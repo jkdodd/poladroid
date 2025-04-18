@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0492.png"]
+Image_Src: ["assets/images/musician0492.png"]
 Hover_Image_Src: null
 Musician_Name: ["Rune (Rune Rebellion)"]
 Band_Name: ["Turbonegro"]
 ---
-/media/musician0492.png
+assets/images/musician0492.png
 
 Rune (Rune Rebellion)
 

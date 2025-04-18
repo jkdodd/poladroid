@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1679.png"]
+Image_Src: ["assets/images/musician1679.png"]
 Hover_Image_Src: null
 Musician_Name: ["TJ"]
 Band_Name: ["Beach Slang"]
 ---
-/media/musician1679.png
+assets/images/musician1679.png
 
 TJ
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1150.png"]
+Image_Src: ["assets/images/musician1150.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dave"]
 Band_Name: ["Joanna Gruesome"]
 ---
-/media/musician1150.png
+assets/images/musician1150.png
 
 Dave
 

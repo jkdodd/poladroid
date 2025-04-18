@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2138.png"]
+Image_Src: ["assets/images/musician2138.png"]
 Hover_Image_Src: null
 Musician_Name: ["Katy"]
 Band_Name: ["Ardyn"]
 ---
-/media/musician2138.png
+assets/images/musician2138.png
 
 Katy
 

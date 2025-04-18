@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0239.png"]
+Image_Src: ["assets/images/musician0239.png"]
 Hover_Image_Src: null
 Musician_Name: ["Gaspard"]
 Band_Name: ["Justice."]
 ---
-/media/musician0239.png
+assets/images/musician0239.png
 
 Gaspard
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0144.png"]
+Image_Src: ["assets/images/musician0144.png"]
 Hover_Image_Src: null
 Musician_Name: ["Gary"]
 Band_Name: ["Is Tropical."]
 ---
-/media/musician0144.png
+assets/images/musician0144.png
 
 Gary
 

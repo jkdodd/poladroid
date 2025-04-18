@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1388.png"]
+Image_Src: ["assets/images/musician1388.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mark"]
 Band_Name: ["Wilkinson"]
 ---
-/media/musician1388.png
+assets/images/musician1388.png
 
 Mark
 

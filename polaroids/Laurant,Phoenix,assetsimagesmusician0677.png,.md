@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0677.png"]
+Image_Src: ["assets/images/musician0677.png"]
 Hover_Image_Src: null
 Musician_Name: ["Laurant"]
 Band_Name: ["Phoenix"]
 ---
-/media/musician0677.png
+assets/images/musician0677.png
 
 Laurant
 

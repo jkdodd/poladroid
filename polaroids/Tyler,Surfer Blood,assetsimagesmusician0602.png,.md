@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0602.png"]
+Image_Src: ["assets/images/musician0602.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tyler"]
 Band_Name: ["Surfer Blood"]
 ---
-/media/musician0602.png
+assets/images/musician0602.png
 
 Tyler
 

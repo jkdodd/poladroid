@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2102.png"]
+Image_Src: ["assets/images/musician2102.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tim"]
 Band_Name: ["The Charlatans"]
 ---
-/media/musician2102.png
+assets/images/musician2102.png
 
 Tim
 

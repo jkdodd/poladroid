@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1409.png"]
+Image_Src: ["assets/images/musician1409.png"]
 Hover_Image_Src: null
 Musician_Name: ["Davie"]
 Band_Name: ["Bear's Den"]
 ---
-/media/musician1409.png
+assets/images/musician1409.png
 
 Davie
 

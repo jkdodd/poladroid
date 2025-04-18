@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1725.png"]
+Image_Src: ["assets/images/musician1725.png"]
 Hover_Image_Src: null
 Musician_Name: ["Christian"]
 Band_Name: ["Edward Sharpe and the Magnetic Zeros"]
 ---
-/media/musician1725.png
+assets/images/musician1725.png
 
 Christian
 

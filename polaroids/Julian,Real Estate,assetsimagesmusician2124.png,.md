@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2124.png"]
+Image_Src: ["assets/images/musician2124.png"]
 Hover_Image_Src: null
 Musician_Name: ["Julian"]
 Band_Name: ["Real Estate"]
 ---
-/media/musician2124.png
+assets/images/musician2124.png
 
 Julian
 

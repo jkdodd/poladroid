@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1549.png"]
+Image_Src: ["assets/images/musician1549.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jessica"]
 Band_Name: ["Big Deal"]
 ---
-/media/musician1549.png
+assets/images/musician1549.png
 
 Jessica
 

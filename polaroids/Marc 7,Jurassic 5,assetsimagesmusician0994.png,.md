@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0994.png"]
+Image_Src: ["assets/images/musician0994.png"]
 Hover_Image_Src: null
 Musician_Name: ["Marc 7"]
 Band_Name: ["Jurassic 5"]
 ---
-/media/musician0994.png
+assets/images/musician0994.png
 
 Marc 7
 

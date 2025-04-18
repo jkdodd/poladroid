@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0102.png"]
+Image_Src: ["assets/images/musician0102.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mikey"]
 Band_Name: ["Art Brut."]
 ---
-/media/musician0102.png
+assets/images/musician0102.png
 
 Mikey
 

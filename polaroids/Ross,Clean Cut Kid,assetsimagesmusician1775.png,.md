@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1775.png"]
+Image_Src: ["assets/images/musician1775.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ross"]
 Band_Name: ["Clean Cut Kid"]
 ---
-/media/musician1775.png
+assets/images/musician1775.png
 
 Ross
 

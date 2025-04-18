@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2319.png"]
+Image_Src: ["assets/images/musician2319.png"]
 Hover_Image_Src: null
 Musician_Name: ["Christian"]
 Band_Name: ["The Black Angels"]
 ---
-/media/musician2319.png
+assets/images/musician2319.png
 
 Christian
 

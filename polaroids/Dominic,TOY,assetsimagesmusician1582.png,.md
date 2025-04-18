@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1582.png"]
+Image_Src: ["assets/images/musician1582.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dominic"]
 Band_Name: ["TOY"]
 ---
-/media/musician1582.png
+assets/images/musician1582.png
 
 Dominic
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0959.png"]
+Image_Src: ["assets/images/musician0959.png"]
 Hover_Image_Src: null
 Musician_Name: ["Thom"]
 Band_Name: ["God Damn"]
 ---
-/media/musician0959.png
+assets/images/musician0959.png
 
 Thom
 

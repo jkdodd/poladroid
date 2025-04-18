@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2090.png"]
+Image_Src: ["assets/images/musician2090.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ted"]
 Band_Name: ["Shout Out Louds"]
 ---
-/media/musician2090.png
+assets/images/musician2090.png
 
 Ted
 

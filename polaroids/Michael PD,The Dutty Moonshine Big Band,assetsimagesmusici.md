@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2440.png"]
+Image_Src: ["assets/images/musician2440.png"]
 Hover_Image_Src: null
 Musician_Name: ["Michael PD"]
 Band_Name: ["The Dutty Moonshine Big Band"]
 ---
-/media/musician2440.png
+assets/images/musician2440.png
 
 Michael PD
 

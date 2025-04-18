@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0666.png"]
+Image_Src: ["assets/images/musician0666.png"]
 Hover_Image_Src: null
 Musician_Name: ["Cameron"]
 Band_Name: ["We Are The In Crowd"]
 ---
-/media/musician0666.png
+assets/images/musician0666.png
 
 Cameron
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1654.png"]
+Image_Src: ["assets/images/musician1654.png"]
 Hover_Image_Src: null
 Musician_Name: ["Adam"]
 Band_Name: ["Molotov Jukebox"]
 ---
-/media/musician1654.png
+assets/images/musician1654.png
 
 Adam
 

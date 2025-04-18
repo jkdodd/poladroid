@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1945.png"]
+Image_Src: ["assets/images/musician1945.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jez"]
 Band_Name: ["Forest Of Fools"]
 ---
-/media/musician1945.png
+assets/images/musician1945.png
 
 Jez
 

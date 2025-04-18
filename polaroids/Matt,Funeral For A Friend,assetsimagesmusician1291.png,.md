@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1291.png"]
+Image_Src: ["assets/images/musician1291.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matt"]
 Band_Name: ["Funeral For A Friend"]
 ---
-/media/musician1291.png
+assets/images/musician1291.png
 
 Matt
 

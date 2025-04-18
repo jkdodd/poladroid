@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0201.png"]
+Image_Src: ["assets/images/musician0201.png"]
 Hover_Image_Src: null
 Musician_Name: ["Blaine"]
 Band_Name: ["Mystery Jets."]
 ---
-/media/musician0201.png
+assets/images/musician0201.png
 
 Blaine
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2177.png"]
+Image_Src: ["assets/images/musician2177.png"]
 Hover_Image_Src: null
 Musician_Name: ["Lauren"]
 Band_Name: ["Girl Sweat Pleasure Temple Ritual Band"]
 ---
-/media/musician2177.png
+assets/images/musician2177.png
 
 Lauren
 

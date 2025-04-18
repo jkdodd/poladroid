@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0787.png"]
+Image_Src: ["assets/images/musician0787.png"]
 Hover_Image_Src: null
 Musician_Name: ["Annie"]
 Band_Name: ["Au Revoir Simone"]
 ---
-/media/musician0787.png
+assets/images/musician0787.png
 
 Annie
 

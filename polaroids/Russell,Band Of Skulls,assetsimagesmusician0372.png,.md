@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0372.png"]
+Image_Src: ["assets/images/musician0372.png"]
 Hover_Image_Src: null
 Musician_Name: ["Russell"]
 Band_Name: ["Band Of Skulls"]
 ---
-/media/musician0372.png
+assets/images/musician0372.png
 
 Russell
 

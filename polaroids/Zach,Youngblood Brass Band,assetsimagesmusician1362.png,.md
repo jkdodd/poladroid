@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1362.png"]
+Image_Src: ["assets/images/musician1362.png"]
 Hover_Image_Src: null
 Musician_Name: ["Zach"]
 Band_Name: ["Youngblood Brass Band"]
 ---
-/media/musician1362.png
+assets/images/musician1362.png
 
 Zach
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0219.png"]
+Image_Src: ["assets/images/musician0219.png"]
 Hover_Image_Src: null
 Musician_Name: ["Hotcake Kitty"]
 Band_Name: ["Hotcake & Windmill."]
 ---
-/media/musician0219.png
+assets/images/musician0219.png
 
 Hotcake Kitty
 

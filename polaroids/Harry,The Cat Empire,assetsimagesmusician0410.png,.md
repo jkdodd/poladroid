@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0410.png"]
+Image_Src: ["assets/images/musician0410.png"]
 Hover_Image_Src: null
 Musician_Name: ["Harry"]
 Band_Name: ["The Cat Empire"]
 ---
-/media/musician0410.png
+assets/images/musician0410.png
 
 Harry
 

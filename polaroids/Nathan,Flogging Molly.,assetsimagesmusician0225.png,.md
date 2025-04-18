@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0225.png"]
+Image_Src: ["assets/images/musician0225.png"]
 Hover_Image_Src: null
 Musician_Name: ["Nathan"]
 Band_Name: ["Flogging Molly."]
 ---
-/media/musician0225.png
+assets/images/musician0225.png
 
 Nathan
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1926.png"]
+Image_Src: ["assets/images/musician1926.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ol"]
 Band_Name: ["Electric Pyramid"]
 ---
-/media/musician1926.png
+assets/images/musician1926.png
 
 Ol
 

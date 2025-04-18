@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2246.png"]
+Image_Src: ["assets/images/musician2246.png"]
 Hover_Image_Src: null
 Musician_Name: ["Charlie"]
 Band_Name: ["Pale Waves"]
 ---
-/media/musician2246.png
+assets/images/musician2246.png
 
 Charlie
 

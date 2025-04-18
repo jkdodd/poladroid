@@ -1,12 +1,12 @@
 ---
-Image_Src: ["/media/musician1899.png"]
-Hover_Image_Src: ["/media/musician1899.1.png"]
+Image_Src: ["assets/images/musician1899.png"]
+Hover_Image_Src: ["assets/images/musician1899.1.png"]
 Musician_Name: ["James"]
 Band_Name: ["Biffy Clyro"]
 ---
-/media/musician1899.png
+assets/images/musician1899.png
 
-/media/musician1899.1.png
+assets/images/musician1899.1.png
 
 James
 

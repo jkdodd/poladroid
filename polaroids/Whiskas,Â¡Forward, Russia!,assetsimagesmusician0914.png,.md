@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0914.png"]
+Image_Src: ["assets/images/musician0914.png"]
 Hover_Image_Src: null
 Musician_Name: ["Whiskas"]
 Band_Name: ["Â¡Forward, Russia!"]
 ---
-/media/musician0914.png
+assets/images/musician0914.png
 
 Whiskas
 

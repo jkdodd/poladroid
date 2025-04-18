@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0115.png"]
+Image_Src: ["assets/images/musician0115.png"]
 Hover_Image_Src: null
 Musician_Name: ["Charles"]
 Band_Name: ["Slow Club."]
 ---
-/media/musician0115.png
+assets/images/musician0115.png
 
 Charles
 

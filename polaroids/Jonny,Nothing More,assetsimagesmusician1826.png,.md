@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1826.png"]
+Image_Src: ["assets/images/musician1826.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jonny"]
 Band_Name: ["Nothing More"]
 ---
-/media/musician1826.png
+assets/images/musician1826.png
 
 Jonny
 

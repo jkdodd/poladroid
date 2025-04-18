@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2044.png"]
+Image_Src: ["assets/images/musician2044.png"]
 Hover_Image_Src: null
 Musician_Name: ["Maya"]
 Band_Name: ["Austra"]
 ---
-/media/musician2044.png
+assets/images/musician2044.png
 
 Maya
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0554.png"]
+Image_Src: ["assets/images/musician0554.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jherek"]
 Band_Name: ["Amanda Palmer & The Grand Theft Orchestra"]
 ---
-/media/musician0554.png
+assets/images/musician0554.png
 
 Jherek
 

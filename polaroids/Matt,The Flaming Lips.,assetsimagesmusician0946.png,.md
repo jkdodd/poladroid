@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0946.png"]
+Image_Src: ["assets/images/musician0946.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matt"]
 Band_Name: ["The Flaming Lips."]
 ---
-/media/musician0946.png
+assets/images/musician0946.png
 
 Matt
 

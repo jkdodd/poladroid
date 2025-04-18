@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2358.png"]
+Image_Src: ["assets/images/musician2358.png"]
 Hover_Image_Src: null
 Musician_Name: ["Iris"]
 Band_Name: ["Girl Ray"]
 ---
-/media/musician2358.png
+assets/images/musician2358.png
 
 Iris
 

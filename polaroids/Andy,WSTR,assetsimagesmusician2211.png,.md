@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2211.png"]
+Image_Src: ["assets/images/musician2211.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andy"]
 Band_Name: ["WSTR"]
 ---
-/media/musician2211.png
+assets/images/musician2211.png
 
 Andy
 

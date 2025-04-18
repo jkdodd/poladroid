@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0922.png"]
+Image_Src: ["assets/images/musician0922.png"]
 Hover_Image_Src: null
 Musician_Name: ["Faris"]
 Band_Name: ["The Horrors"]
 ---
-/media/musician0922.png
+assets/images/musician0922.png
 
 Faris
 

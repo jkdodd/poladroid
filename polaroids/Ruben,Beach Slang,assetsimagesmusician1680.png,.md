@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1680.png"]
+Image_Src: ["assets/images/musician1680.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ruben"]
 Band_Name: ["Beach Slang"]
 ---
-/media/musician1680.png
+assets/images/musician1680.png
 
 Ruben
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1293.png"]
+Image_Src: ["assets/images/musician1293.png"]
 Hover_Image_Src: null
 Musician_Name: ["Pete"]
 Band_Name: ["Max Raptor"]
 ---
-/media/musician1293.png
+assets/images/musician1293.png
 
 Pete
 

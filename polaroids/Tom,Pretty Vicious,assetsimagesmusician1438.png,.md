@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1438.png"]
+Image_Src: ["assets/images/musician1438.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom"]
 Band_Name: ["Pretty Vicious"]
 ---
-/media/musician1438.png
+assets/images/musician1438.png
 
 Tom
 

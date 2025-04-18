@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1141.png"]
+Image_Src: ["assets/images/musician1141.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jimi"]
 Band_Name: ["Tigercub"]
 ---
-/media/musician1141.png
+assets/images/musician1141.png
 
 Jimi
 

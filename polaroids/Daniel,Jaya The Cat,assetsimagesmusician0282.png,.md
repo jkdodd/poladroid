@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0282.png"]
+Image_Src: ["assets/images/musician0282.png"]
 Hover_Image_Src: null
 Musician_Name: ["Daniel"]
 Band_Name: ["Jaya The Cat"]
 ---
-/media/musician0282.png
+assets/images/musician0282.png
 
 Daniel
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2414.png"]
+Image_Src: ["assets/images/musician2414.png"]
 Hover_Image_Src: null
 Musician_Name: ["Simone"]
 Band_Name: ["The Go! Team"]
 ---
-/media/musician2414.png
+assets/images/musician2414.png
 
 Simone
 

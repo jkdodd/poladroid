@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0369.png"]
+Image_Src: ["assets/images/musician0369.png"]
 Hover_Image_Src: null
 Musician_Name: ["Shane"]
 Band_Name: ["DZ Deathrays"]
 ---
-/media/musician0369.png
+assets/images/musician0369.png
 
 Shane
 

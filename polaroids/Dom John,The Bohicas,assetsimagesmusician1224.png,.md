@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1224.png"]
+Image_Src: ["assets/images/musician1224.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dom John"]
 Band_Name: ["The Bohicas"]
 ---
-/media/musician1224.png
+assets/images/musician1224.png
 
 Dom John
 

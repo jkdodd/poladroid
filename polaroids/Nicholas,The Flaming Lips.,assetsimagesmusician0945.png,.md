@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0945.png"]
+Image_Src: ["assets/images/musician0945.png"]
 Hover_Image_Src: null
 Musician_Name: ["Nicholas"]
 Band_Name: ["The Flaming Lips."]
 ---
-/media/musician0945.png
+assets/images/musician0945.png
 
 Nicholas
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0751.png"]
+Image_Src: ["assets/images/musician0751.png"]
 Hover_Image_Src: null
 Musician_Name: ["Felix"]
 Band_Name: ["Basement Jaxx"]
 ---
-/media/musician0751.png
+assets/images/musician0751.png
 
 Felix
 

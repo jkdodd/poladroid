@@ -1,12 +1,12 @@
 ---
-Image_Src: ["/media/musician1620.png"]
-Hover_Image_Src: ["/media/musician1620.1.png"]
+Image_Src: ["assets/images/musician1620.png"]
+Hover_Image_Src: ["assets/images/musician1620.1.png"]
 Musician_Name: ["Tom"]
 Band_Name: ["HECK"]
 ---
-/media/musician1620.png
+assets/images/musician1620.png
 
-/media/musician1620.1.png
+assets/images/musician1620.1.png
 
 Tom
 

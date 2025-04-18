@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0917.png"]
+Image_Src: ["assets/images/musician0917.png"]
 Hover_Image_Src: null
 Musician_Name: ["Galen"]
 Band_Name: ["The Hold Steady"]
 ---
-/media/musician0917.png
+assets/images/musician0917.png
 
 Galen
 

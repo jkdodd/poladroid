@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0094.png"]
+Image_Src: ["assets/images/musician0094.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mickey"]
 Band_Name: ["Suburban Legends."]
 ---
-/media/musician0094.png
+assets/images/musician0094.png
 
 Mickey
 

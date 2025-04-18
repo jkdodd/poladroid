@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0043.png"]
+Image_Src: ["assets/images/musician0043.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kelly"]
 Band_Name: ["Johnny Foreigner."]
 ---
-/media/musician0043.png
+assets/images/musician0043.png
 
 Kelly
 

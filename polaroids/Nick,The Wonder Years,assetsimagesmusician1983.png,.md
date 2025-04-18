@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1983.png"]
+Image_Src: ["assets/images/musician1983.png"]
 Hover_Image_Src: null
 Musician_Name: ["Nick"]
 Band_Name: ["The Wonder Years"]
 ---
-/media/musician1983.png
+assets/images/musician1983.png
 
 Nick
 

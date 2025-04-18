@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0117.png"]
+Image_Src: ["assets/images/musician0117.png"]
 Hover_Image_Src: null
 Musician_Name: ["Del"]
 Band_Name: ["Heebeejeebies."]
 ---
-/media/musician0117.png
+assets/images/musician0117.png
 
 Del
 

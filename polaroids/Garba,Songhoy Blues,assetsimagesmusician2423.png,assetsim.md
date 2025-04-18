@@ -1,12 +1,12 @@
 ---
-Image_Src: ["/media/musician2423.png"]
-Hover_Image_Src: ["/media/musician2423.1.png"]
+Image_Src: ["assets/images/musician2423.png"]
+Hover_Image_Src: ["assets/images/musician2423.1.png"]
 Musician_Name: ["Garba"]
 Band_Name: ["Songhoy Blues"]
 ---
-/media/musician2423.png
+assets/images/musician2423.png
 
-/media/musician2423.1.png
+assets/images/musician2423.1.png
 
 Garba
 

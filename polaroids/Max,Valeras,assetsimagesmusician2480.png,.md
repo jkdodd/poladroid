@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2480.png"]
+Image_Src: ["assets/images/musician2480.png"]
 Hover_Image_Src: null
 Musician_Name: ["Max"]
 Band_Name: ["Valeras"]
 ---
-/media/musician2480.png
+assets/images/musician2480.png
 
 Max
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1711.png"]
+Image_Src: ["assets/images/musician1711.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom"]
 Band_Name: ["Wild Beasts"]
 ---
-/media/musician1711.png
+assets/images/musician1711.png
 
 Tom
 

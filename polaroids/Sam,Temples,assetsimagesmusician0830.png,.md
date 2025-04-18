@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0830.png"]
+Image_Src: ["assets/images/musician0830.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sam"]
 Band_Name: ["Temples"]
 ---
-/media/musician0830.png
+assets/images/musician0830.png
 
 Sam
 

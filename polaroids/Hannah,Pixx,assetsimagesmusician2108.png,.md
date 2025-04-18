@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2108.png"]
+Image_Src: ["assets/images/musician2108.png"]
 Hover_Image_Src: null
 Musician_Name: ["Hannah"]
 Band_Name: ["Pixx"]
 ---
-/media/musician2108.png
+assets/images/musician2108.png
 
 Hannah
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0563.png"]
+Image_Src: ["assets/images/musician0563.png"]
 Hover_Image_Src: null
 Musician_Name: ["Lee"]
 Band_Name: ["Madness"]
 ---
-/media/musician0563.png
+assets/images/musician0563.png
 
 Lee
 

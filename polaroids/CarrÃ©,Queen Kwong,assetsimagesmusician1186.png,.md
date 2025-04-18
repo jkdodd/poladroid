@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1186.png"]
+Image_Src: ["assets/images/musician1186.png"]
 Hover_Image_Src: null
 Musician_Name: ["CarrÃ©"]
 Band_Name: ["Queen Kwong"]
 ---
-/media/musician1186.png
+assets/images/musician1186.png
 
 CarrÃ©
 

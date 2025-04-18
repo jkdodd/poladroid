@@ -1,12 +1,12 @@
 ---
-Image_Src: ["/media/musician1512.png"]
-Hover_Image_Src: ["/media/musician1512.1.png"]
+Image_Src: ["assets/images/musician1512.png"]
+Hover_Image_Src: ["assets/images/musician1512.1.png"]
 Musician_Name: ["Mikey"]
 Band_Name: ["The Graveltones"]
 ---
-/media/musician1512.png
+assets/images/musician1512.png
 
-/media/musician1512.1.png
+assets/images/musician1512.1.png
 
 Mikey
 

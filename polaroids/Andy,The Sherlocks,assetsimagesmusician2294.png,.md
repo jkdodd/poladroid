@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2294.png"]
+Image_Src: ["assets/images/musician2294.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andy"]
 Band_Name: ["The Sherlocks"]
 ---
-/media/musician2294.png
+assets/images/musician2294.png
 
 Andy
 

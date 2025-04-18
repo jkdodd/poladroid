@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0511.png"]
+Image_Src: ["assets/images/musician0511.png"]
 Hover_Image_Src: null
 Musician_Name: ["Michael"]
 Band_Name: ["Everything Everything"]
 ---
-/media/musician0511.png
+assets/images/musician0511.png
 
 Michael
 

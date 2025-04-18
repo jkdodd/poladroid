@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0397.png"]
+Image_Src: ["assets/images/musician0397.png"]
 Hover_Image_Src: null
 Musician_Name: ["Pip"]
 Band_Name: ["Ladyhawke"]
 ---
-/media/musician0397.png
+assets/images/musician0397.png
 
 Pip
 

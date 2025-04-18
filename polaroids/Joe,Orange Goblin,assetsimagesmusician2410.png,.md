@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2410.png"]
+Image_Src: ["assets/images/musician2410.png"]
 Hover_Image_Src: null
 Musician_Name: ["Joe"]
 Band_Name: ["Orange Goblin"]
 ---
-/media/musician2410.png
+assets/images/musician2410.png
 
 Joe
 

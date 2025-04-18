@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2203.png"]
+Image_Src: ["assets/images/musician2203.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alex"]
 Band_Name: ["The Planet Smashers"]
 ---
-/media/musician2203.png
+assets/images/musician2203.png
 
 Alex
 

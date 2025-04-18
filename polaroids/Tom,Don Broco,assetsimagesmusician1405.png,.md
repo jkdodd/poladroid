@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1405.png"]
+Image_Src: ["assets/images/musician1405.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom"]
 Band_Name: ["Don Broco"]
 ---
-/media/musician1405.png
+assets/images/musician1405.png
 
 Tom
 

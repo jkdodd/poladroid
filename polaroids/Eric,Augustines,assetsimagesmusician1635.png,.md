@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1635.png"]
+Image_Src: ["assets/images/musician1635.png"]
 Hover_Image_Src: null
 Musician_Name: ["Eric"]
 Band_Name: ["Augustines"]
 ---
-/media/musician1635.png
+assets/images/musician1635.png
 
 Eric
 

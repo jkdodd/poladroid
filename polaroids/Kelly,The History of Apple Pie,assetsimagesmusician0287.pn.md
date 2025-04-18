@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0287.png"]
+Image_Src: ["assets/images/musician0287.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kelly"]
 Band_Name: ["The History of Apple Pie"]
 ---
-/media/musician0287.png
+assets/images/musician0287.png
 
 Kelly
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0345.png"]
+Image_Src: ["assets/images/musician0345.png"]
 Hover_Image_Src: null
 Musician_Name: ["Loz"]
 Band_Name: ["Snuff"]
 ---
-/media/musician0345.png
+assets/images/musician0345.png
 
 Loz
 

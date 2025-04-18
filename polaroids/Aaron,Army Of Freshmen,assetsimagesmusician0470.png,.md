@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0470.png"]
+Image_Src: ["assets/images/musician0470.png"]
 Hover_Image_Src: null
 Musician_Name: ["Aaron"]
 Band_Name: ["Army Of Freshmen"]
 ---
-/media/musician0470.png
+assets/images/musician0470.png
 
 Aaron
 

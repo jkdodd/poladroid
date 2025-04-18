@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2163.png"]
+Image_Src: ["assets/images/musician2163.png"]
 Hover_Image_Src: null
 Musician_Name: ["David"]
 Band_Name: ["Soulwax"]
 ---
-/media/musician2163.png
+assets/images/musician2163.png
 
 David
 

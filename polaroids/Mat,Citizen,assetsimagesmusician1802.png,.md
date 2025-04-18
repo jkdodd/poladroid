@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1802.png"]
+Image_Src: ["assets/images/musician1802.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mat"]
 Band_Name: ["Citizen"]
 ---
-/media/musician1802.png
+assets/images/musician1802.png
 
 Mat
 

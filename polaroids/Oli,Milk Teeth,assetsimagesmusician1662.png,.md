@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1662.png"]
+Image_Src: ["assets/images/musician1662.png"]
 Hover_Image_Src: null
 Musician_Name: ["Oli"]
 Band_Name: ["Milk Teeth"]
 ---
-/media/musician1662.png
+assets/images/musician1662.png
 
 Oli
 

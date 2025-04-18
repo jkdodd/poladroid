@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1944.png"]
+Image_Src: ["assets/images/musician1944.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jam"]
 Band_Name: ["Forest Of Fools"]
 ---
-/media/musician1944.png
+assets/images/musician1944.png
 
 Jam
 

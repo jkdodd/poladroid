@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2062.png"]
+Image_Src: ["assets/images/musician2062.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tim"]
 Band_Name: ["Grandaddy"]
 ---
-/media/musician2062.png
+assets/images/musician2062.png
 
 Tim
 

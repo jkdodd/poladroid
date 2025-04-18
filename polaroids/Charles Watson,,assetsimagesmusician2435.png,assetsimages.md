@@ -1,11 +1,11 @@
 ---
-Image_Src: ["/media/musician2435.png"]
-Hover_Image_Src: ["/media/musician2435.1.png"]
+Image_Src: ["assets/images/musician2435.png"]
+Hover_Image_Src: ["assets/images/musician2435.1.png"]
 Musician_Name: ["Charles Watson"]
 Band_Name: null
 ---
-/media/musician2435.png
+assets/images/musician2435.png
 
-/media/musician2435.1.png
+assets/images/musician2435.1.png
 
 Charles Watson

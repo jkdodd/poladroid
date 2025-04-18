@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0859.png"]
+Image_Src: ["assets/images/musician0859.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sam"]
 Band_Name: ["Circa Waves"]
 ---
-/media/musician0859.png
+assets/images/musician0859.png
 
 Sam
 

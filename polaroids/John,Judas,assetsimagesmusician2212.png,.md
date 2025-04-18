@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2212.png"]
+Image_Src: ["assets/images/musician2212.png"]
 Hover_Image_Src: null
 Musician_Name: ["John"]
 Band_Name: ["Judas"]
 ---
-/media/musician2212.png
+assets/images/musician2212.png
 
 John
 

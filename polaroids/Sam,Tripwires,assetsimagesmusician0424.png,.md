@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0424.png"]
+Image_Src: ["assets/images/musician0424.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sam"]
 Band_Name: ["Tripwires"]
 ---
-/media/musician0424.png
+assets/images/musician0424.png
 
 Sam
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0888.png"]
+Image_Src: ["assets/images/musician0888.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andy"]
 Band_Name: ["Spring King"]
 ---
-/media/musician0888.png
+assets/images/musician0888.png
 
 Andy
 

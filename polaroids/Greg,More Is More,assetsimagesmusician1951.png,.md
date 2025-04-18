@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1951.png"]
+Image_Src: ["assets/images/musician1951.png"]
 Hover_Image_Src: null
 Musician_Name: ["Greg"]
 Band_Name: ["More Is More"]
 ---
-/media/musician1951.png
+assets/images/musician1951.png
 
 Greg
 

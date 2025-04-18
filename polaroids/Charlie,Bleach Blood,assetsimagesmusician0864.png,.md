@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0864.png"]
+Image_Src: ["assets/images/musician0864.png"]
 Hover_Image_Src: null
 Musician_Name: ["Charlie"]
 Band_Name: ["Bleach Blood"]
 ---
-/media/musician0864.png
+assets/images/musician0864.png
 
 Charlie
 

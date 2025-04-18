@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2071.png"]
+Image_Src: ["assets/images/musician2071.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mike"]
 Band_Name: ["Can't Swim"]
 ---
-/media/musician2071.png
+assets/images/musician2071.png
 
 Mike
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0399.png"]
+Image_Src: ["assets/images/musician0399.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andy"]
 Band_Name: ["Hundred Reasons"]
 ---
-/media/musician0399.png
+assets/images/musician0399.png
 
 Andy
 

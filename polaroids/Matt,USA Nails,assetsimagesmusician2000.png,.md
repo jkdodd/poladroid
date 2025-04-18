@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2000.png"]
+Image_Src: ["assets/images/musician2000.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matt"]
 Band_Name: ["USA Nails"]
 ---
-/media/musician2000.png
+assets/images/musician2000.png
 
 Matt
 

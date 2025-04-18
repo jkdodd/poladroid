@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0539.png"]
+Image_Src: ["assets/images/musician0539.png"]
 Hover_Image_Src: null
 Musician_Name: ["Steven"]
 Band_Name: ["Seasick Steve"]
 ---
-/media/musician0539.png
+assets/images/musician0539.png
 
 Steven
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0278.png"]
+Image_Src: ["assets/images/musician0278.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matthew"]
 Band_Name: ["Random Hand"]
 ---
-/media/musician0278.png
+assets/images/musician0278.png
 
 Matthew
 

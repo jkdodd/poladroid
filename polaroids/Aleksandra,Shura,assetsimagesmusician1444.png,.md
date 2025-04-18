@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1444.png"]
+Image_Src: ["assets/images/musician1444.png"]
 Hover_Image_Src: null
 Musician_Name: ["Aleksandra"]
 Band_Name: ["Shura"]
 ---
-/media/musician1444.png
+assets/images/musician1444.png
 
 Aleksandra
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0524.png"]
+Image_Src: ["assets/images/musician0524.png"]
 Hover_Image_Src: null
 Musician_Name: ["Arnaud"]
 Band_Name: ["Caravan Palace"]
 ---
-/media/musician0524.png
+assets/images/musician0524.png
 
 Arnaud
 

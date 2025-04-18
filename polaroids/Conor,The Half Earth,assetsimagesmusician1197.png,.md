@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1197.png"]
+Image_Src: ["assets/images/musician1197.png"]
 Hover_Image_Src: null
 Musician_Name: ["Conor"]
 Band_Name: ["The Half Earth"]
 ---
-/media/musician1197.png
+assets/images/musician1197.png
 
 Conor
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1346.png"]
+Image_Src: ["assets/images/musician1346.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alex"]
 Band_Name: ["Do Me Bad Things"]
 ---
-/media/musician1346.png
+assets/images/musician1346.png
 
 Alex
 

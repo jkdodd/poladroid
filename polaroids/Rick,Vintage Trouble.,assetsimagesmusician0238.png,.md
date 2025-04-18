@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0238.png"]
+Image_Src: ["assets/images/musician0238.png"]
 Hover_Image_Src: null
 Musician_Name: ["Rick"]
 Band_Name: ["Vintage Trouble."]
 ---
-/media/musician0238.png
+assets/images/musician0238.png
 
 Rick
 

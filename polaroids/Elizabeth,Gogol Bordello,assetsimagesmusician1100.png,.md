@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1100.png"]
+Image_Src: ["assets/images/musician1100.png"]
 Hover_Image_Src: null
 Musician_Name: ["Elizabeth"]
 Band_Name: ["Gogol Bordello"]
 ---
-/media/musician1100.png
+assets/images/musician1100.png
 
 Elizabeth
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0657.png"]
+Image_Src: ["assets/images/musician0657.png"]
 Hover_Image_Src: null
 Musician_Name: ["Adio"]
 Band_Name: ["Bipolar Sunshine"]
 ---
-/media/musician0657.png
+assets/images/musician0657.png
 
 Adio
 

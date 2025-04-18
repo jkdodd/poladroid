@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0536.png"]
+Image_Src: ["assets/images/musician0536.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kevin"]
 Band_Name: ["Tame Impala"]
 ---
-/media/musician0536.png
+assets/images/musician0536.png
 
 Kevin
 

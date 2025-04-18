@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2218.png"]
+Image_Src: ["assets/images/musician2218.png"]
 Hover_Image_Src: null
 Musician_Name: ["George"]
 Band_Name: ["Yonaka"]
 ---
-/media/musician2218.png
+assets/images/musician2218.png
 
 George
 

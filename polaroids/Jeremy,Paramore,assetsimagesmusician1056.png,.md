@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1056.png"]
+Image_Src: ["assets/images/musician1056.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jeremy"]
 Band_Name: ["Paramore"]
 ---
-/media/musician1056.png
+assets/images/musician1056.png
 
 Jeremy
 

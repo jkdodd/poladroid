@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0756.png"]
+Image_Src: ["assets/images/musician0756.png"]
 Hover_Image_Src: null
 Musician_Name: ["Stefan"]
 Band_Name: ["Placebo"]
 ---
-/media/musician0756.png
+assets/images/musician0756.png
 
 Stefan
 

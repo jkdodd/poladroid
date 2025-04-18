@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0807.png"]
+Image_Src: ["assets/images/musician0807.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chris"]
 Band_Name: ["Me First and The Gimme Gimmes"]
 ---
-/media/musician0807.png
+assets/images/musician0807.png
 
 Chris
 

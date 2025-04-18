@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0008.png"]
+Image_Src: ["assets/images/musician0008.png"]
 Hover_Image_Src: null
 Musician_Name: ["Scott"]
 Band_Name: ["Reel Big Fish."]
 ---
-/media/musician0008.png
+assets/images/musician0008.png
 
 Scott
 

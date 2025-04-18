@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2296.png"]
+Image_Src: ["assets/images/musician2296.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kiaran"]
 Band_Name: ["The Sherlocks"]
 ---
-/media/musician2296.png
+assets/images/musician2296.png
 
 Kiaran
 

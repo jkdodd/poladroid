@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2202.png"]
+Image_Src: ["assets/images/musician2202.png"]
 Hover_Image_Src: null
 Musician_Name: ["Andy"]
 Band_Name: ["The Planet Smashers"]
 ---
-/media/musician2202.png
+assets/images/musician2202.png
 
 Andy
 

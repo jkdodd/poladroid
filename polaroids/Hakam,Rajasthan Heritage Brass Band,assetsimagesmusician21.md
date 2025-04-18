@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2182.png"]
+Image_Src: ["assets/images/musician2182.png"]
 Hover_Image_Src: null
 Musician_Name: ["Hakam"]
 Band_Name: ["Rajasthan Heritage Brass Band"]
 ---
-/media/musician2182.png
+assets/images/musician2182.png
 
 Hakam
 

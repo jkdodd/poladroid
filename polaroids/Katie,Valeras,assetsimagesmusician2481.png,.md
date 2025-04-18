@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2481.png"]
+Image_Src: ["assets/images/musician2481.png"]
 Hover_Image_Src: null
 Musician_Name: ["Katie"]
 Band_Name: ["Valeras"]
 ---
-/media/musician2481.png
+assets/images/musician2481.png
 
 Katie
 

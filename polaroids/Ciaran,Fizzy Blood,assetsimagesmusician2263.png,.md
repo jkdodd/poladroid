@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2263.png"]
+Image_Src: ["assets/images/musician2263.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ciaran"]
 Band_Name: ["Fizzy Blood"]
 ---
-/media/musician2263.png
+assets/images/musician2263.png
 
 Ciaran
 

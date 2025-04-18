@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0040.png"]
+Image_Src: ["assets/images/musician0040.png"]
 Hover_Image_Src: null
 Musician_Name: ["Alasdair"]
 Band_Name: ["Hot Club de Paris."]
 ---
-/media/musician0040.png
+assets/images/musician0040.png
 
 Alasdair
 

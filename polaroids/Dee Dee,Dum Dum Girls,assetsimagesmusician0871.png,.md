@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0871.png"]
+Image_Src: ["assets/images/musician0871.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dee Dee"]
 Band_Name: ["Dum Dum Girls"]
 ---
-/media/musician0871.png
+assets/images/musician0871.png
 
 Dee Dee
 

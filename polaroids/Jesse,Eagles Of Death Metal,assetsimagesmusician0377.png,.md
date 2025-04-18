@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0377.png"]
+Image_Src: ["assets/images/musician0377.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jesse"]
 Band_Name: ["Eagles Of Death Metal"]
 ---
-/media/musician0377.png
+assets/images/musician0377.png
 
 Jesse
 

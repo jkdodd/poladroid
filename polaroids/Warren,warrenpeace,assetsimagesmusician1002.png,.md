@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1002.png"]
+Image_Src: ["assets/images/musician1002.png"]
 Hover_Image_Src: null
 Musician_Name: ["Warren"]
 Band_Name: ["warrenpeace"]
 ---
-/media/musician1002.png
+assets/images/musician1002.png
 
 Warren
 

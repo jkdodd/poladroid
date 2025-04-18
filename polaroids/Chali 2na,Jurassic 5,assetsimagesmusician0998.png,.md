@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0998.png"]
+Image_Src: ["assets/images/musician0998.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chali 2na"]
 Band_Name: ["Jurassic 5"]
 ---
-/media/musician0998.png
+assets/images/musician0998.png
 
 Chali 2na
 

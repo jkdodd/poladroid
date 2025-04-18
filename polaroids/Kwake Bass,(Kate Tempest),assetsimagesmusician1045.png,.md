@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1045.png"]
+Image_Src: ["assets/images/musician1045.png"]
 Hover_Image_Src: null
 Musician_Name: ["Kwake Bass"]
 Band_Name: ["(Kate Tempest)"]
 ---
-/media/musician1045.png
+assets/images/musician1045.png
 
 Kwake Bass
 

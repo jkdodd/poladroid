@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1303.png"]
+Image_Src: ["assets/images/musician1303.png"]
 Hover_Image_Src: null
 Musician_Name: ["Michael (Mikeydemus)"]
 Band_Name: ["Skindred"]
 ---
-/media/musician1303.png
+assets/images/musician1303.png
 
 Michael (Mikeydemus)
 

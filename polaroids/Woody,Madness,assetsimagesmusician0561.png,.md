@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0561.png"]
+Image_Src: ["assets/images/musician0561.png"]
 Hover_Image_Src: null
 Musician_Name: ["Woody"]
 Band_Name: ["Madness"]
 ---
-/media/musician0561.png
+assets/images/musician0561.png
 
 Woody
 

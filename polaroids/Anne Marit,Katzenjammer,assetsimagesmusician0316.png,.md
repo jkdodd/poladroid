@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0316.png"]
+Image_Src: ["assets/images/musician0316.png"]
 Hover_Image_Src: null
 Musician_Name: ["Anne Marit"]
 Band_Name: ["Katzenjammer"]
 ---
-/media/musician0316.png
+assets/images/musician0316.png
 
 Anne Marit
 

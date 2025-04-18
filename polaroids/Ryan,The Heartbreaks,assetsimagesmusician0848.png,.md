@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0848.png"]
+Image_Src: ["assets/images/musician0848.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ryan"]
 Band_Name: ["The Heartbreaks"]
 ---
-/media/musician0848.png
+assets/images/musician0848.png
 
 Ryan
 

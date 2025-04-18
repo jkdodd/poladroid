@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1688.png"]
+Image_Src: ["assets/images/musician1688.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jenny"]
 Band_Name: ["Let's Eat Grandma"]
 ---
-/media/musician1688.png
+assets/images/musician1688.png
 
 Jenny
 

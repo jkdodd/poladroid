@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0770.png"]
+Image_Src: ["assets/images/musician0770.png"]
 Hover_Image_Src: null
 Musician_Name: ["Suren"]
 Band_Name: ["Bombay Bicycle Club"]
 ---
-/media/musician0770.png
+assets/images/musician0770.png
 
 Suren
 

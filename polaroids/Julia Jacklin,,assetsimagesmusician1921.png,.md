@@ -1,9 +1,9 @@
 ---
-Image_Src: ["/media/musician1921.png"]
+Image_Src: ["assets/images/musician1921.png"]
 Hover_Image_Src: null
 Musician_Name: ["Julia Jacklin"]
 Band_Name: null
 ---
-/media/musician1921.png
+assets/images/musician1921.png
 
 Julia Jacklin

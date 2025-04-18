@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2452.png"]
+Image_Src: ["assets/images/musician2452.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ethan"]
 Band_Name: ["Rainbow Kitten Surprise"]
 ---
-/media/musician2452.png
+assets/images/musician2452.png
 
 Ethan
 

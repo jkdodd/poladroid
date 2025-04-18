@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0262.png"]
+Image_Src: ["assets/images/musician0262.png"]
 Hover_Image_Src: null
 Musician_Name: ["Pop"]
 Band_Name: ["The Chapman Family"]
 ---
-/media/musician0262.png
+assets/images/musician0262.png
 
 Pop
 

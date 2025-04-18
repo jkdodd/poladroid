@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1790.png"]
+Image_Src: ["assets/images/musician1790.png"]
 Hover_Image_Src: null
 Musician_Name: ["Nathan"]
 Band_Name: ["Mouses"]
 ---
-/media/musician1790.png
+assets/images/musician1790.png
 
 Nathan
 

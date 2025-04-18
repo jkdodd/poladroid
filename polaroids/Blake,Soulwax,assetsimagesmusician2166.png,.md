@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2166.png"]
+Image_Src: ["assets/images/musician2166.png"]
 Hover_Image_Src: null
 Musician_Name: ["Blake"]
 Band_Name: ["Soulwax"]
 ---
-/media/musician2166.png
+assets/images/musician2166.png
 
 Blake
 

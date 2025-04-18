@@ -1,9 +1,9 @@
 ---
-Image_Src: ["/media/musician0720.png"]
+Image_Src: ["assets/images/musician0720.png"]
 Hover_Image_Src: null
 Musician_Name: ["Chelsea Wolfe"]
 Band_Name: null
 ---
-/media/musician0720.png
+assets/images/musician0720.png
 
 Chelsea Wolfe

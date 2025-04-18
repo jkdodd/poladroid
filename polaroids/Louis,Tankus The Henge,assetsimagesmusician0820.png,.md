@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0820.png"]
+Image_Src: ["assets/images/musician0820.png"]
 Hover_Image_Src: null
 Musician_Name: ["Louis"]
 Band_Name: ["Tankus The Henge"]
 ---
-/media/musician0820.png
+assets/images/musician0820.png
 
 Louis
 

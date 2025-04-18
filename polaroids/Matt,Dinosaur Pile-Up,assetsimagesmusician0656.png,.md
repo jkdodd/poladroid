@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0656.png"]
+Image_Src: ["assets/images/musician0656.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matt"]
 Band_Name: ["Dinosaur Pile-Up"]
 ---
-/media/musician0656.png
+assets/images/musician0656.png
 
 Matt
 

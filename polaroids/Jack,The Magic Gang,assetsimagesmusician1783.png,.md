@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1783.png"]
+Image_Src: ["assets/images/musician1783.png"]
 Hover_Image_Src: null
 Musician_Name: ["Jack"]
 Band_Name: ["The Magic Gang"]
 ---
-/media/musician1783.png
+assets/images/musician1783.png
 
 Jack
 

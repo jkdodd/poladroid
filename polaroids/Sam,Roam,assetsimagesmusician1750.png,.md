@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1750.png"]
+Image_Src: ["assets/images/musician1750.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sam"]
 Band_Name: ["Roam"]
 ---
-/media/musician1750.png
+assets/images/musician1750.png
 
 Sam
 

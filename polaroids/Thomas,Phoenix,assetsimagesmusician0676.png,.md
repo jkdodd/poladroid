@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0676.png"]
+Image_Src: ["assets/images/musician0676.png"]
 Hover_Image_Src: null
 Musician_Name: ["Thomas"]
 Band_Name: ["Phoenix"]
 ---
-/media/musician0676.png
+assets/images/musician0676.png
 
 Thomas
 

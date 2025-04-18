@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1200.png"]
+Image_Src: ["assets/images/musician1200.png"]
 Hover_Image_Src: null
 Musician_Name: ["Haley"]
 Band_Name: ["Scott Bradlee & Postmodern Jukebox"]
 ---
-/media/musician1200.png
+assets/images/musician1200.png
 
 Haley
 

@@ -1,9 +1,9 @@
 ---
-Image_Src: ["/media/musician0294.png"]
+Image_Src: ["assets/images/musician0294.png"]
 Hover_Image_Src: null
 Musician_Name: ["Tom Vek"]
 Band_Name: null
 ---
-/media/musician0294.png
+assets/images/musician0294.png
 
 Tom Vek

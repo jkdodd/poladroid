@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1187.png"]
+Image_Src: ["assets/images/musician1187.png"]
 Hover_Image_Src: null
 Musician_Name: ["Wes"]
 Band_Name: ["Queen Kwong"]
 ---
-/media/musician1187.png
+assets/images/musician1187.png
 
 Wes
 

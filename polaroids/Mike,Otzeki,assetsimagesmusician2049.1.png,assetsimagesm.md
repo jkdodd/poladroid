@@ -1,12 +1,12 @@
 ---
-Image_Src: ["/media/musician2049.1.png"]
-Hover_Image_Src: ["/media/musician2049.png"]
+Image_Src: ["assets/images/musician2049.1.png"]
+Hover_Image_Src: ["assets/images/musician2049.png"]
 Musician_Name: ["Mike"]
 Band_Name: ["Otzeki"]
 ---
-/media/musician2049.1.png
+assets/images/musician2049.1.png
 
-/media/musician2049.png
+assets/images/musician2049.png
 
 Mike
 

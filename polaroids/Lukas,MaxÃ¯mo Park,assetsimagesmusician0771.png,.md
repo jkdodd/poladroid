@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0771.png"]
+Image_Src: ["assets/images/musician0771.png"]
 Hover_Image_Src: null
 Musician_Name: ["Lukas"]
 Band_Name: ["MaxÃ¯mo Park"]
 ---
-/media/musician0771.png
+assets/images/musician0771.png
 
 Lukas
 

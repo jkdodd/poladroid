@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0737.png"]
+Image_Src: ["assets/images/musician0737.png"]
 Hover_Image_Src: null
 Musician_Name: ["Emily"]
 Band_Name: ["Warpaint"]
 ---
-/media/musician0737.png
+assets/images/musician0737.png
 
 Emily
 

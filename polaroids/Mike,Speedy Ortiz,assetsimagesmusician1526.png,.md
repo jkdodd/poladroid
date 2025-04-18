@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1526.png"]
+Image_Src: ["assets/images/musician1526.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mike"]
 Band_Name: ["Speedy Ortiz"]
 ---
-/media/musician1526.png
+assets/images/musician1526.png
 
 Mike
 

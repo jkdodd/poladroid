@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2415.png"]
+Image_Src: ["assets/images/musician2415.png"]
 Hover_Image_Src: null
 Musician_Name: ["Adam"]
 Band_Name: ["The Go! Team"]
 ---
-/media/musician2415.png
+assets/images/musician2415.png
 
 Adam
 

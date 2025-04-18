@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0780.png"]
+Image_Src: ["assets/images/musician0780.png"]
 Hover_Image_Src: null
 Musician_Name: ["Joseph"]
 Band_Name: ["RX Bandits"]
 ---
-/media/musician0780.png
+assets/images/musician0780.png
 
 Joseph
 

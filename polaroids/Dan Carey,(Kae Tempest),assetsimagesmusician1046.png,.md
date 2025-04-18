@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1046.png"]
+Image_Src: ["assets/images/musician1046.png"]
 Hover_Image_Src: null
 Musician_Name: ["Dan Carey"]
 Band_Name: ["(Kae Tempest)"]
 ---
-/media/musician1046.png
+assets/images/musician1046.png
 
 Dan Carey
 

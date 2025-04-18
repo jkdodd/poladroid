@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0039.png"]
+Image_Src: ["assets/images/musician0039.png"]
 Hover_Image_Src: null
 Musician_Name: ["Matthew"]
 Band_Name: ["Hot Club de Paris."]
 ---
-/media/musician0039.png
+assets/images/musician0039.png
 
 Matthew
 

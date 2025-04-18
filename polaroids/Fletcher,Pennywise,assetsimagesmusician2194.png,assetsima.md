@@ -1,12 +1,12 @@
 ---
-Image_Src: ["/media/musician2194.png"]
-Hover_Image_Src: ["/media/musician2194.1.png"]
+Image_Src: ["assets/images/musician2194.png"]
+Hover_Image_Src: ["assets/images/musician2194.1.png"]
 Musician_Name: ["Fletcher"]
 Band_Name: ["Pennywise"]
 ---
-/media/musician2194.png
+assets/images/musician2194.png
 
-/media/musician2194.1.png
+assets/images/musician2194.1.png
 
 Fletcher
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0604.png"]
+Image_Src: ["assets/images/musician0604.png"]
 Hover_Image_Src: null
 Musician_Name: ["Lindey"]
 Band_Name: ["Deap Vally"]
 ---
-/media/musician0604.png
+assets/images/musician0604.png
 
 Lindey
 

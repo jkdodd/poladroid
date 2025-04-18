@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2470.png"]
+Image_Src: ["assets/images/musician2470.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sven"]
 Band_Name: ["Kang"]
 ---
-/media/musician2470.png
+assets/images/musician2470.png
 
 Sven
 

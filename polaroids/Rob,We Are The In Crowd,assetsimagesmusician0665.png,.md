@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0665.png"]
+Image_Src: ["assets/images/musician0665.png"]
 Hover_Image_Src: null
 Musician_Name: ["Rob"]
 Band_Name: ["We Are The In Crowd"]
 ---
-/media/musician0665.png
+assets/images/musician0665.png
 
 Rob
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1528.png"]
+Image_Src: ["assets/images/musician1528.png"]
 Hover_Image_Src: null
 Musician_Name: ["Sadie"]
 Band_Name: ["Speedy Ortiz"]
 ---
-/media/musician1528.png
+assets/images/musician1528.png
 
 Sadie
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0735.png"]
+Image_Src: ["assets/images/musician0735.png"]
 Hover_Image_Src: null
 Musician_Name: ["Stella"]
 Band_Name: ["Warpaint"]
 ---
-/media/musician0735.png
+assets/images/musician0735.png
 
 Stella
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1286.png"]
+Image_Src: ["assets/images/musician1286.png"]
 Hover_Image_Src: null
 Musician_Name: ["Graham"]
 Band_Name: ["Young Fathers"]
 ---
-/media/musician1286.png
+assets/images/musician1286.png
 
 Graham
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0455.png"]
+Image_Src: ["assets/images/musician0455.png"]
 Hover_Image_Src: null
 Musician_Name: ["Daniel"]
 Band_Name: ["The Heavy"]
 ---
-/media/musician0455.png
+assets/images/musician0455.png
 
 Daniel
 

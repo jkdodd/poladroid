@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0613.png"]
+Image_Src: ["assets/images/musician0613.png"]
 Hover_Image_Src: null
 Musician_Name: ["Josh"]
 Band_Name: ["Sons and Lovers"]
 ---
-/media/musician0613.png
+assets/images/musician0613.png
 
 Josh
 

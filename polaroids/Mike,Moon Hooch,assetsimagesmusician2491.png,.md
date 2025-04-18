@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician2491.png"]
+Image_Src: ["assets/images/musician2491.png"]
 Hover_Image_Src: null
 Musician_Name: ["Mike"]
 Band_Name: ["Moon Hooch"]
 ---
-/media/musician2491.png
+assets/images/musician2491.png
 
 Mike
 

@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician1929.png"]
+Image_Src: ["assets/images/musician1929.png"]
 Hover_Image_Src: null
 Musician_Name: ["Ryan"]
 Band_Name: ["Joan As Police Woman & Benjamin Lazar Davis"]
 ---
-/media/musician1929.png
+assets/images/musician1929.png
 
 Ryan
 

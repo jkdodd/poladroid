@@ -1,11 +1,11 @@
 ---
-Image_Src: ["/media/musician2489.png"]
-Hover_Image_Src: ["/media/musician2489.1.png"]
+Image_Src: ["assets/images/musician2489.png"]
+Hover_Image_Src: ["assets/images/musician2489.1.png"]
 Musician_Name: ["Aurora"]
 Band_Name: null
 ---
-/media/musician2489.png
+assets/images/musician2489.png
 
-/media/musician2489.1.png
+assets/images/musician2489.1.png
 
 Aurora

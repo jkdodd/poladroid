@@ -1,10 +1,10 @@
 ---
-Image_Src: ["/media/musician0443.png"]
+Image_Src: ["assets/images/musician0443.png"]
 Hover_Image_Src: null
 Musician_Name: ["Rachel"]
 Band_Name: ["Esben and the Witch"]
 ---
-/media/musician0443.png
+assets/images/musician0443.png
 
 Rachel
 
