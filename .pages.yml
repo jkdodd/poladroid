@@ -36,6 +36,8 @@ content:
       - name: description
         label: SEO description
         type: string
+        options:
+          maxlength: 160
       - name: email
         label: Email address
         type: string
