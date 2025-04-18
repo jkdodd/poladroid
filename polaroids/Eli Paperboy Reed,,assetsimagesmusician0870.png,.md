@@ -6,4 +6,4 @@ Band_Name: null
 ---
 assets/images/musician0870.png
 
-Eli "Paperboy" Reed
+Eli 'Paperboy' Reed

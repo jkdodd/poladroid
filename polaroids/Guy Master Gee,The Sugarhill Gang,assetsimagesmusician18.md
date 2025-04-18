@@ -6,6 +6,6 @@ Band_Name: ["The Sugarhill Gang"]
 ---
 assets/images/musician1872.png
 
-Guy "Master Gee"
+Guy 'Master Gee'
 
 The Sugarhill Gang
