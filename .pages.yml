@@ -6,6 +6,7 @@ content:
     label: Polaroids
     type: collection
     path: src/polaroids
+    format: code
     view: 
       fields: [ Musician_Name, Band_Name ]
       search: [ Musician_Name, Band_Name ]
