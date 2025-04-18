@@ -1,11 +1,11 @@
 media:
-  input: media
-  output: media
+  input: src/media
+  output: /media
 content:
   - name: polaroids
     label: Polaroids
     type: collection
-    path: 'polaroids'
+    path: 'src/polaroids'
     view: 
       fields: [ Musician_Name, Band_Name ]
       search: [ Musician_Name, Band_Name ]
@@ -26,7 +26,7 @@ content:
   - name: site
     label: Site settings
     type: file
-    path: _data/site.json
+    path: src/_data/site.json
     fields:
       - name: title
         label: SEO title
