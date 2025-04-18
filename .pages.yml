@@ -8,6 +8,8 @@ content:
     path: 'polaroids'
     view: 
       fields: [ Musician_Name, Band_Name ]
+      search: [ Musician_Name, Band_Name ]
+      sort: [ Musician_Name, Band_Name ]
     fields:
       - name: Musician_Name
         label: Musician name
