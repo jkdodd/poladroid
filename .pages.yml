@@ -5,12 +5,14 @@ content:
   - name: polaroids
     label: Polaroids
     type: collection
-    path: 'src/polaroids'
+    path: src/polaroids
     format: yaml-frontmatter
+    filename: '{year}-{month}-{day}-{primary}.md'
     view: 
       fields: [ Musician_Name, Band_Name ]
       search: [ Musician_Name, Band_Name ]
       sort: [ Musician_Name, Band_Name ]
+      primary: Band_Name
     fields:
       - name: Musician_Name
         label: Musician name
