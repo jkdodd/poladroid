@@ -21,3 +21,4 @@ node_modules/json2md/lib/converters.js
 node_modules/json2md/lib/index.js
 musicians.json
 node_modules/.package-lock.json
+.DS_Store
