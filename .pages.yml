@@ -5,7 +5,7 @@ content:
   - name: polaroids
     label: Polaroids
     type: collection
-    path: src/polaroids
+    path: /src/polaroids
     format: yaml-frontmatter
     filename: '{Musician_Name},{Band_Name}.md'
     view: 
