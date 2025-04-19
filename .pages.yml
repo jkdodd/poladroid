@@ -1,6 +1,6 @@
 media:
-  input: media
-  output: media
+  input: src/media
+  output: /media
 content:
   - name: polaroids
     label: Polaroids
