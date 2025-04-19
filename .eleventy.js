@@ -3,7 +3,9 @@ module.exports = (config) => {
     config.addPassthroughCopy("src/css/");
     config.addPassthroughCopy("src/styles.css");
     config.addWatchTarget("src/styles.css");
+
     config.addPassthroughCopy("src/polaroids/");
+    config.addPassthroughCopy("src/media/");
 
     config.addCollection("polaroids", (collection) =>
       collection.getFilteredByGlob("src/polaroids/*.md")
@@ -49,7 +51,7 @@ module.exports = (config) => {
       dir: {
         input: "src",
         includes: "_includes",
-        output: "./",
+        output: "_site",
         data: "_data",
       },
     };
