@@ -1,6 +1,6 @@
 .python-version
 scrape_perou.py
-csv-to-md-main
+csv-to-md-main.zip
 csv-to-md-main/csv_to_md-file.py
 csv-to-md-main/.gitignore
 csv-to-md-main/LICENSE
