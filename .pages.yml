@@ -1,11 +1,11 @@
 media:
-  input: src/media
-  output: /media
+  input: media
+  output: media
 content:
   - name: polaroids
     label: Polaroids
     type: collection
-    path: '_site/polaroids'
+    path: 'polaroids'
     view: 
       fields: [ Musician_Name, Band_Name ]
       search: [ Musician_Name, Band_Name ]
