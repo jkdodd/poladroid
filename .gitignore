@@ -1,5 +1,6 @@
 .python-version
 scrape_perou.py
+csv-to-md-main
 csv-to-md-main/csv_to_md-file.py
 csv-to-md-main/.gitignore
 csv-to-md-main/LICENSE
@@ -7,6 +8,7 @@ csv-to-md-main/settings.py
 csv-to-md-main/example/csv-md-YAML.gif
 csv-to-md-main/example/result.png
 csv-to-md-main/example/result2.png
+node_modules
 node_modules/indento/LICENSE
 node_modules/indento/package.json
 node_modules/indento/README.md
