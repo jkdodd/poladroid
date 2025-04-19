@@ -1,5 +1,5 @@
 media:
-  input: media
+  input: _site/media
   output: /media
 content:
   - name: polaroids
