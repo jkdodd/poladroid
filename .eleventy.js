@@ -4,7 +4,6 @@ module.exports = (config) => {
     config.addPassthroughCopy("src/images/");
 
     config.addWatchTarget("src/styles.css");
-    config.addWatchTarget("src/*.njk");
 
     // config.addCollection("polaroids", (collection) =>
     //   collection.getFilteredByGlob("polaroids/*.md")
