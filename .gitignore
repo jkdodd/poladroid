@@ -1,5 +1,5 @@
 .python-version
-scrape_perou.py
+scrape_with_images.py
 csv-to-md-main.zip
 csv-to-md-main/csv_to_md-file.py
 csv-to-md-main/.gitignore
@@ -19,6 +19,8 @@ node_modules/json2md/README.md
 node_modules/json2md/dist/json2md.min.js
 node_modules/json2md/lib/converters.js
 node_modules/json2md/lib/index.js
-musicians.json
+polaroids.csv
+polaroids.json
 node_modules/.package-lock.json
 .DS_Store
+.env

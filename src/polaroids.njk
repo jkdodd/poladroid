@@ -1,0 +1,16 @@
+---
+title: Polaroids
+---
+
+<h1>{{ title }}</h1>
+<ul>
+    {% for polaroid in polaroidsList -%}
+        <li>
+        {{ img_src }}
+        {{ onmouseover_src }}
+        {{ onmouseout_src }}
+        {{ musician_name }}
+        {{ band_name }}
+    </li>
+    {% endfor -%}
+</ul>

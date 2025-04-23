@@ -1,15 +1,14 @@
 module.exports = (config) => {
   
-    config.addPassthroughCopy("src/css/");
     config.addPassthroughCopy("src/styles.css");
+    config.addPassthroughCopy("src/images/");
+
     config.addWatchTarget("src/styles.css");
+    config.addWatchTarget("src/*.njk");
 
-    config.addPassthroughCopy("src/polaroids/");
-    config.addPassthroughCopy("src/media/");
-
-    config.addCollection("polaroids", (collection) =>
-      collection.getFilteredByGlob("src/polaroids/*.md")
-    );
+    // config.addCollection("polaroids", (collection) =>
+    //   collection.getFilteredByGlob("polaroids/*.md")
+    // );
   
     // config.addFilter("sluggyJo", function (value) {
     //   // lowercase and replace spaces with hyphens

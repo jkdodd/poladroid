@@ -118,7 +118,6 @@ body {
 header {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     padding: 3em 0;
     gap: 1.5em;
 
@@ -165,11 +164,16 @@ header ul {
     }
 }
 
-header .search {
-    background-color: black;
-    color: whitesmoke;
-    border: none;
-    padding: 0.5em;
+form {
+    flex: 1;
+}
+
+input[type="search"] {
+    background-color: whitesmoke;
+    color: black;
+    padding: 0.5em 1em;
+    border: 1px solid slategray;
+    border-radius: 1em;
 }
 
 section {
@@ -202,8 +206,8 @@ section .list {
     padding: 0;
 
     li {
-        flex: 1 1 25%;
-        min-width: 200px;
+        flex: 1 1 20%;
+        min-width: 160px;
     }
 
     img {
@@ -214,9 +218,10 @@ section .list {
     }
 }
 
-@media screen and (min-width: 40rem) {
+@media screen and (min-width: 960px) {
     main {
         display: flex;
+        gap: 3em;
     }
     header {
         position: sticky;
