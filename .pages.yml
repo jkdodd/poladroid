@@ -1,0 +1,8 @@
+media:
+  input: src/images
+  output: _site/images
+content:
+  - name: polaroids
+    label: Polaroids
+    type: collection
+    path: 'src/polaroids'
