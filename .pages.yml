@@ -6,3 +6,4 @@ content:
     label: Polaroids
     type: collection
     path: '_site/polaroids'
+    filename: '{Musician_Name}-{Band_Name}.md'
