@@ -6,3 +6,22 @@ content:
     label: Polaroids
     type: collection
     path: '_site/polaroid'
+    view:
+      fields: [ pagination_pageNumber, musician_name, band_name ]
+    fields:
+      - name: musician_name
+        label: Musician
+        type: string
+      - name: band_name
+        label: Band
+        type: string
+      - name: img_src
+        label: Image
+        type: image
+      - name: onmouseover_src
+        label: Image hover
+        type: image
+      - name: pagination_pageNumber
+        label: Polaroid number
+        default: true
+        type: uuid
