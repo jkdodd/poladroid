@@ -1,3 +1,29 @@
 media:
   input: src/images
   output: _site/images
+content:
+  - name: polaroids
+    label: Polaroids
+    type: collection
+    path: '_site/polaroid'
+    filename: '{fields.pagination_pageNumber}.md'
+    view:
+      fields: [ pagination_pageNumber, musician_name, band_name ]
+      primary: pagination_pageNumber
+      sort: [ pagination_pageNumber, band_name ]
+    fields:
+      - name: pagination_pageNumber
+        label: Polaroid number
+        type: number
+      - name: musician_name
+        label: Musician
+        type: string
+      - name: band_name
+        label: Band
+        type: string
+      - name: img_src
+        label: Image
+        type: image
+      - name: onmouseover_src
+        label: Image hover
+        type: image
