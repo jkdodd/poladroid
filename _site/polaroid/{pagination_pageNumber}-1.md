@@ -1,3 +1,0 @@
----
-musician_name: test
----
