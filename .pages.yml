@@ -12,6 +12,9 @@ content:
       primary: 'pagination_pageNumber'
       sort: [ pagination_pageNumber, band_name ]
     fields:
+      - name: pagination_pageNumber
+        label: Polaroid number
+        type: number
       - name: musician_name
         label: Musician
         type: string
@@ -24,6 +27,3 @@ content:
       - name: onmouseover_src
         label: Image hover
         type: image
-      - name: pagination_pageNumber
-        label: Polaroid number
-        type: number
