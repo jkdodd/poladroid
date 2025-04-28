@@ -5,4 +5,4 @@ content:
   - name: polaroids
     label: Polaroids
     type: collection
-    path: 'src/polaroids'
+    path: 'src/polaroid'

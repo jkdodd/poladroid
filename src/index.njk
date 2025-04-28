@@ -10,7 +10,15 @@ layout: base.njk
             <span>© James Perou</span>
         </h1>
         <form>
-            <input type="search" placeholder="Search">
+            {# <input type="search" placeholder="Search"> #}
+            {# <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+            <script src="/pagefind/pagefind-ui.js"></script>
+            <div id="search"></div>
+            <script>
+                window.addEventListener('DOMContentLoaded', (event) => {
+                    new PagefindUI({element: "#search", showSubResults: true});
+                });
+            </script> #}
         </form>
         <ul>
             <li>
@@ -24,23 +32,23 @@ layout: base.njk
     <section>
 
         <ul class="list">
-            {% for polaroid in polaroidsList %}
+            {% for polaroid in polaroids %}
                 <li>
                     <figure>
                         {% if polaroid.onmouseover_src %}
-                        <img alt="" width="300" height="365" loading="lazy"
+                            <img alt="" width="300" height="365" loading="lazy"
                             src="{{ polaroid.img_src }}"
                             onmouseover="this.src='{{ polaroid.onmouseover_src }}'"
-                            onmouseout="this.src='{{ polaroid.img_src }}'"
-                        />
+                            onmouseout="this.src='{{ polaroid.img_src }}'"/>
                         {% else %}
-                        <img alt=""  width="300" height="365"  loading="lazy" src="{{ polaroid.img_src }}" />
+                            <img alt=""  width="300" height="365"  loading="lazy" src="{{ polaroid.img_src }}"/>
                         {% endif %}
                         <figcaption>
                             <h2>
                                 {{ polaroid.musician_name }}
                                 <span>{{ polaroid.band_name }}</span>
                             </h2>
+                            <a href="#">{{ polaroid.data.URL }}</a>
                         </figcaption>
                     </figure>
                 </li>

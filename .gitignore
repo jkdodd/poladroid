@@ -19,8 +19,9 @@ node_modules/json2md/README.md
 node_modules/json2md/dist/json2md.min.js
 node_modules/json2md/lib/converters.js
 node_modules/json2md/lib/index.js
-polaroids.csv
-polaroids.json
+package-lock.json
+polaroids-scrape.csv
+polaroids-scrape.json
 node_modules/.package-lock.json
 .DS_Store
 .env

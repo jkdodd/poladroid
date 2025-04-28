@@ -1,0 +1,12 @@
+---
+pagination:
+  data: polaroids
+  size: 1
+  alias: polaroid
+  addAllPagesToCollections: true
+permalink: "polaroid/{{ pagination.pageNumber + 1 }}.md"
+tags: polaroids
+layout: 'polaroid.njk'
+templateEngineOverride: njk, md
+---
+{{ polaroid.body | safe }}
