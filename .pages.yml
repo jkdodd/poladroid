@@ -9,7 +9,7 @@ content:
     filename: '{primary}.md'
     view:
       fields: [ musician_name, band_name, pagination_pageNumber ]
-      primary: pagination_pageNumber
+      primary: 'pagination_pageNumber'
       sort: [ pagination_pageNumber, band_name ]
     fields:
       - name: musician_name
