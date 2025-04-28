@@ -6,7 +6,6 @@ content:
     label: Polaroids
     type: collection
     path: '_site/polaroid'
-    filename: '{primary}.md'
     view:
       fields: [ musician_name, band_name, pagination_pageNumber ]
       primary: pagination_pageNumber
