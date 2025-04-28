@@ -23,5 +23,4 @@ content:
         type: image
       - name: pagination_pageNumber
         label: Polaroid number
-        default: true
-        type: uuid
+        type: number
