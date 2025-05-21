@@ -13,9 +13,9 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Number", name: "pagination_pageNumber", widget: "number" }
       - { label: "Musician Name", name: "musician_name", widget: "string" }
-      - { label: "Band Name", name: "band_name", widget: "string" }
+      - { label: "Band Name", name: "band_name", widget: "string", required: false }
       - { label: "Main Image", name: "img_src", widget: "image" }
-      - { label: "Hover Image", name: "onmouseover_src", widget: "image" }
+      - { label: "Hover Image", name: "onmouseover_src", widget: "image", required: false }
     summary: "{{pagination_pageNumber}} - {{musician_name}}, {{band_name}}"
     editor:
       preview: false
