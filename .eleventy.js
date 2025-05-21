@@ -3,7 +3,7 @@ module.exports = (config) => {
   
     config.addPassthroughCopy("src/styles.css");
     config.addPassthroughCopy("src/images/");
-
+    
     config.addWatchTarget("src/styles.css");
   
     return {
