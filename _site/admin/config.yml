@@ -3,9 +3,6 @@ backend:
   branch: decap # Branch to update (optional; defaults to master)
 media_folder: "_site/images" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
-summary: "{{pagination_pageNumber}} - {{musician_name}}, {{band_name}}"
-editor:
-  preview: false
 collections:
   - name: "polaroid" # Used in routes, e.g., /admin/collections/blog
     identifier_field: pagination_pageNumber
@@ -20,3 +17,7 @@ collections:
       - { label: "Band Name", name: "band_name", widget: "string" }
       - { label: "Main Image", name: "img_src", widget: "image" }
       - { label: "Hover Image", name: "onmouseover_src", widget: "image" }
+    summary: "{{pagination_pageNumber}} - {{musician_name}}, {{band_name}}"
+    editor:
+      preview: false
+      
