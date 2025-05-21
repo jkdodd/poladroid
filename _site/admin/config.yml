@@ -1,0 +1,16 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: "images" # Media files will be stored in the repo under images
+collections:
+  - name: "polaroid" # Used in routes, e.g., /admin/collections/blog
+    label: "Polaroid" # Used in the UI
+    folder: "polaroid" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{pagination_pageNumber}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Number", name: "pagination_pageNumber", widget: "number" }
+      - { label: "Musician Name", name: "musician_name", widget: "string" }
+      - { label: "Band Name", name: "band_name", widget: "string" }
+      - { label: "Main Image", name: "img_src", widget: "image" }
+      - { label: "Hover Image", name: "onmouseover_src", widget: "image" }
