@@ -216,6 +216,22 @@ section .list {
         height: auto;
         width: 100%;
     }
+
+    .img_wrap {
+        position: relative;
+    }
+
+    .img_hover {
+        position: absolute;
+        opacity: 0;
+        top: 0;
+    }
+
+    .img_wrap:hover, .img_wrap:focus-visible {
+        .img_hover {
+            opacity: 1;
+        }
+    }
 }
 
 @media screen and (min-width: 960px) {

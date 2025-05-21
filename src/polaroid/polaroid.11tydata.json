@@ -1,0 +1,6 @@
+{
+    "permalink": false,
+    "templateEngineOverride": "njk, md",
+    "layout": "polaroid",
+    "tags": "polaroids"
+}

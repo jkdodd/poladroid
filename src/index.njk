@@ -32,17 +32,19 @@ layout: base.njk
     <section>
 
         <ul class="list">
-            {% for polaroid in polaroids %}
+            {% for polaroid in collections.polaroids | reverse %}
                 <li>
                     <figure>
-                        <img alt="" width="300" height="365" loading="lazy" src="{{ polaroid.img_src }}"/>
-                        {% if polaroid.onmouseover_src %}
-                        <img class="onHover" alt=""  width="300" height="365" loading="lazy" src="{{ polaroid.onmouseover_src }}"/>
-                        {% endif %}
+                        <div class="img_wrap">
+                            <img alt="" width="300" height="365" loading="lazy" src="{{ polaroid.data.img_src }}"/>
+                            {% if polaroid.data.onmouseover_src %}
+                            <img class="img_hover" alt=""  width="300" height="365" loading="lazy" src="{{ polaroid.data.onmouseover_src }}"/>
+                            {% endif %}
+                        </div>
                         <figcaption>
                             <h2>
-                                {{ polaroid.musician_name }}
-                                <span>{{ polaroid.band_name }}</span>
+                                {{ polaroid.data.musician_name }}
+                                <span>{{ polaroid.data.band_name }}</span>
                             </h2>
                         </figcaption>
                     </figure>
