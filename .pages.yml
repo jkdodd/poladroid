@@ -7,6 +7,7 @@ content:
     type: collection
     path: '_site/polaroid'
     filename: '{fields.pagination_pageNumber}.md'
+    summary: "{{pagination_pageNumber}} - {{musician_name}}, {{band_name}}"
     view:
       fields: [ pagination_pageNumber, musician_name, band_name ]
       primary: pagination_pageNumber
