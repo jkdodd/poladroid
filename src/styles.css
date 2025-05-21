@@ -200,15 +200,11 @@ section figure {
 
 section .list {
     list-style: none;
-    flex-wrap: wrap;
-    display: flex;
+
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr) );
+    display: grid;
     gap: 3em 1.5em;
     padding: 0;
-
-    li {
-        flex: 1 1 20%;
-        min-width: 160px;
-    }
 
     img {
         transition: opacity 0.3s;
