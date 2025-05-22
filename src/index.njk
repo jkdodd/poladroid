@@ -32,7 +32,7 @@ layout: base.njk
     <section>
 
         <ul class="list">
-            {% for polaroid in collections.polaroids | reverse %}
+            {% for polaroid in collections.polaroids | reverse | sort('data.pagination_pageNumber') %}
                 <li>
                     <figure>
                         <div class="img_wrap">
