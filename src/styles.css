@@ -138,6 +138,10 @@ small {
 
 details {
     font-size: 0.875em;
+
+    ::marker {
+        color: var(--accent);
+    }
 }
 
 kbd {
@@ -160,7 +164,7 @@ header {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    padding: 4em 0;
+    padding: 3em 0;
     gap: 2em;
 }
 
@@ -226,7 +230,7 @@ nav ul {
 }
 
 section {
-    padding: 4em 0;
+    padding: 3em 0;
 }
 
 section h2 {
