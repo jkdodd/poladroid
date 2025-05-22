@@ -32,7 +32,8 @@ layout: base.njk
     <section>
 
         <ul class="list">
-            {% for polaroid in collections.polaroids | reverse | sort('data.pagination_pageNumber') %}
+            {% set sorted = collections.polaroids | sort(attribute='data.pagination_pageNumber') | reverse %}
+            {% for polaroid in sorted %}
                 <li>
                     <figure>
                         <div class="img_wrap">
