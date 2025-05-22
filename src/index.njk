@@ -1,51 +1,55 @@
 ---
-title: My first page
+title: Polaroids of folk that make music · James Perou
 layout: base.njk
 ---
 
 <main>
     <header>
         <h1>
-            Polaroids Of Folk That Make Music
+            <div style="font-weight: normal">{{ collections.polaroids | length }}</div> Polaroids of folk that make music.
             <span>© James Perou</span>
         </h1>
-        <form>
-            {# <input type="search" placeholder="Search"> #}
-            {# <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-            <script src="/pagefind/pagefind-ui.js"></script>
-            <div id="search"></div>
-            <script>
-                window.addEventListener('DOMContentLoaded', (event) => {
-                    new PagefindUI({element: "#search", showSubResults: true});
-                });
-            </script> #}
-        </form>
-        <ul>
-            <li>
-                <a href="#">Email</a>
-            </li>
-            <li>
-                <a href="#">Instagram</a>
-            </li>
-        </ul>
+
+        <details>
+            <summary>
+                <b>About the project</b>
+            </summary>
+            <p>Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod.</p>
+        </details>
+
     </header>
-    <section>
+
+    <section style="position: relative;">
+
+        <nav>
+            <small>To search for an artist, use <kbd>^Ctrl</kbd> / <kbd>⌘Cmd</kbd> + <kbd>F</kbd>
+            </small>
+
+            <ul>
+                <li>
+                    <a href="#">Email</a>
+                </li>
+                <li>
+                    <a href="#">Instagram</a>
+                </li>
+            </ul>
+        </nav>
 
         <ul class="list">
-            {% set sorted = collections.polaroids | sort(attribute='data.pagination_pageNumber') | reverse %}
+            {% set sorted = collections.polaroids | sort(attribute = 'data.pagination_pageNumber') | reverse %}
             {% for polaroid in sorted %}
                 <li>
                     <figure>
                         <div class="img_wrap">
                             <img alt="" width="300" height="365" loading="lazy" src="{{ polaroid.data.img_src }}"/>
                             {% if polaroid.data.onmouseover_src %}
-                            <img class="img_hover" alt=""  width="300" height="365" loading="lazy" src="{{ polaroid.data.onmouseover_src }}"/>
+                                <img class="img_hover" alt=""  width="300" height="365" loading="lazy" src="{{ polaroid.data.onmouseover_src }}"/>
                             {% endif %}
                         </div>
                         <figcaption>
                             <h2>
-                                {{ polaroid.data.musician_name }}
-                                <span>{{ polaroid.data.band_name }}</span>
+                                {{ polaroid.data.musician_name | safe }}
+                                <span>{{ polaroid.data.band_name | safe }}</span>
                             </h2>
                         </figcaption>
                     </figure>

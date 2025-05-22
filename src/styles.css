@@ -98,16 +98,28 @@ textarea:not([rows]) {
 
 :root {
     --breakpoint: 960px;
+    --light: white;
+    --dark: #111;
+    --medium: #647182;
+    --accent: goldenrod;
 }
 
 body {
-    background-color: white;
-    color: black;
-    font-family: sans-serif;
+    font-size: clamp(1rem, 0.9348rem + 0.3261vw, 1.1875rem);
+    background-color: var(--light);
+    font-family: 'Funnel Sans', sans-serif;
+    font-weight: 200;
+    color: var(--dark);
     line-height: 1.5;
-    font-size: 1em;
     padding: 0 3em;
     margin: 0;
+
+    ::selection {
+        background: var(--accent); /* WebKit/Blink Browsers */
+    }
+    ::-moz-selection {
+        background: var(--accent); /* Gecko Browsers */
+    }
 
     * {
         padding: 0;
@@ -115,30 +127,72 @@ body {
     }
 }
 
+b {
+    font-weight: bold;
+}
+
+small {
+    display: block;
+    text-wrap: balance;
+}
+
+details {
+    font-size: 0.875em;
+}
+
+kbd {
+    background-color: #eee;
+    border-radius: 3px;
+    border: 1px solid #b4b4b4;
+    box-shadow:
+        0 1px 1px rgba(0, 0, 0, 0.2),
+        0 2px 0 0 rgba(255, 255, 255, 0.7) inset;
+    color: var(--dark);
+    display: inline-block;
+    font-size: 0.75em;
+    font-weight: 700;
+    line-height: 1;
+    padding: 2px 4px;
+    white-space: nowrap;
+}
+
 header {
     display: flex;
+    justify-content: space-between;
     flex-direction: column;
-    padding: 3em 0;
-    gap: 1.5em;
-
-    > * + * {
-        margin-block: 3em;
-    }
+    padding: 4em 0;
+    gap: 2em;
 }
 
 header h1 {
-    font-size: 2em;
+    font-weight: bold;
+    font-size: 2.5em;
 
     span {
-        color: #647182;
+        color: var(--medium);
         font-weight: normal;
-        font-size: 0.5em;
-        margin-top: 1em;
+        line-height: 1;
+        font-size: 1rem;
+        margin-top: 2em;
         display: block;
     }
 }
 
-header ul {
+nav {
+    background-color: var(--dark);
+    color: var(--light);
+    visibility: hidden;
+    justify-content: space-between;
+    position: fixed;
+    display: flex;
+    z-index: 99;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 1em 3em;
+}
+
+nav ul {
     align-items: center;
     flex-direction: row;
     list-style: none;
@@ -151,8 +205,15 @@ header ul {
     }
 
     button,
-    a {
+    a:not([class]) {
         text-decoration: none;
+        color: white;
+        font-size: 0.875em;
+
+        &:hover,
+        &:focus-visible {
+            color: var(--accent);
+        }
     }
 
     &:hover li:not(:hover) {
@@ -164,20 +225,8 @@ header ul {
     }
 }
 
-form {
-    flex: 1;
-}
-
-input[type="search"] {
-    background-color: whitesmoke;
-    color: black;
-    padding: 0.5em 1em;
-    border: 1px solid #647182;
-    border-radius: 1em;
-}
-
 section {
-    padding: 3em 0;
+    padding: 4em 0;
 }
 
 section h2 {
@@ -201,7 +250,7 @@ section figure {
 section .list {
     list-style: none;
 
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr) );
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     display: grid;
     gap: 3em 1.5em;
     padding: 0;
@@ -223,7 +272,8 @@ section .list {
         top: 0;
     }
 
-    .img_wrap:hover, .img_wrap:focus-visible {
+    .img_wrap:hover,
+    .img_wrap:focus-visible {
         .img_hover {
             opacity: 1;
         }
@@ -233,9 +283,11 @@ section .list {
 @media screen and (min-width: 960px) {
     main {
         display: flex;
-        gap: 3em;
+        gap: 4em;
     }
+    nav { visibility: visible; }
     header {
+        padding-bottom: 6em;
         position: sticky;
         height: 100dvh;
         width: 20rem;
