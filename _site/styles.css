@@ -107,7 +107,7 @@ textarea:not([rows]) {
 body {
     font-size: clamp(1rem, 0.9348rem + 0.3261vw, 1.1875rem);
     background-color: var(--light);
-    font-family: 'Funnel Sans', sans-serif;
+    font-family: "Funnel Sans", sans-serif;
     font-weight: 200;
     color: var(--dark);
     line-height: 1.5;
@@ -183,10 +183,11 @@ header h1 {
 }
 
 nav {
-    background-color: var(--dark);
+    background-color: rgba(17, 17, 17, 0.85);
     color: var(--light);
     visibility: hidden;
     justify-content: space-between;
+    align-items: center;
     position: fixed;
     display: flex;
     z-index: 99;
@@ -284,12 +285,28 @@ section .list {
     }
 }
 
+img:not(.img_hover) {
+    animation: fadeIn;
+    animation-timeline: view(0% block);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
 @media screen and (min-width: 960px) {
     main {
         display: flex;
         gap: 4em;
     }
-    nav { visibility: visible; }
+    nav {
+        visibility: visible;
+    }
     header {
         padding-bottom: 6em;
         position: sticky;
@@ -299,7 +316,8 @@ section .list {
     }
     section {
         max-width: calc(100vw - 20rem);
-        overflow-y: scroll;
+        /* overflow-y: scroll; */
+        min-height: 100vh;
         flex: 1;
     }
 }
