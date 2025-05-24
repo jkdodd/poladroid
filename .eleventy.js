@@ -1,8 +1,7 @@
 module.exports = (config) => {
   config.addPassthroughCopy("src/styles.css");
-  config.addPassthroughCopy("src/images/*.png");
+  config.addPassthroughCopy("src/images/*.webp");
 
-  // config.addWatchTarget("src/polaroid/*.md");
   config.addWatchTarget("src/styles.css");
 
   return {
