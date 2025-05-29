@@ -1,5 +1,5 @@
 {
-    "permalink": "polaroid/{{pagination_pageNumber}}.md",
+    "permalink": "polaroid/{{pagination_pageNumber + 1}}.md",
     "templateEngineOverride": "njk, md",
     "layout": "polaroid",
     "tags": "polaroids"
