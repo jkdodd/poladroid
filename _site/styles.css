@@ -107,8 +107,6 @@ textarea:not([rows]) {
 /* BASE */
 
 :root {
-    --breakpoint: 960px;
-
     /* Colours */
     --light: white;
     --dark: #111;
@@ -116,8 +114,8 @@ textarea:not([rows]) {
     --accent: goldenrod;
 
     /* Font sizes */
-    --text-sm: 0.875em;
-    --text-xs: 0.75em;
+    --text-sm: 0.875rem;
+    --text-xs: 0.75rem;
 
     /* Spacing */
     --left-col-width: 20rem;
@@ -125,13 +123,36 @@ textarea:not([rows]) {
     --inner: clamp(1rem, 5vw, 2rem);
 }
 
+@font-face {
+    font-family: "Playfair Display";
+    src:
+        local("Playfair Display Regular"),
+        local("PlayfairDisplay-Regular"),
+        url("fonts/PlayfairDisplay-Regular.woff2") format("woff2"),
+        url("fonts/PlayfairDisplay-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
-    font-size: clamp(1rem, 0.9348rem + 0.3261vw, 1.1875rem);
-    font-family: "Funnel Sans", sans-serif;
+    font-family:
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Oxygen,
+        Ubuntu,
+        Cantarell,
+        "Open Sans",
+        "Helvetica Neue",
+        sans-serif;
     background-color: var(--light);
-    padding: 0 var(--outer);
+    padding: var(--outer);
     color: var(--dark);
     font-weight: 300;
+    font-size: 1em;
     margin: 0;
 
     ::selection {
@@ -152,7 +173,7 @@ kbd {
         0 2px 0 0 rgba(255, 255, 255, 0.7) inset;
     color: var(--dark);
     display: inline-block;
-    font-size: var(--text-xs);
+    /* font-size: var(--text-xs); */
     font-weight: 700;
     line-height: 1.25;
     padding: 2px 5px;
@@ -160,7 +181,7 @@ kbd {
 }
 
 details {
-    font-size: var(--text-sm);
+    flex-grow: 1;
     cursor: pointer;
 
     summary {
@@ -168,6 +189,7 @@ details {
     }
 
     p {
+        font-size: var(--text-sm);
         padding-top: 0.5em;
     }
 
@@ -186,6 +208,7 @@ b {
 }
 
 .counter {
+    /* font-size: 1rem; */
     font-weight: 200;
     color: var(--medium);
 }
@@ -194,17 +217,22 @@ b {
 
 header {
     justify-content: space-between;
-    padding: var(--outer) 0;
     flex-direction: column;
-    gap: var(--outer);
+    gap: var(--inner);
     display: flex;
+
+    p {
+        text-wrap: balance;
+    }
 }
 
 header h1 {
+    font-family: "Playfair Display", serif;
     font-weight: 700;
-    font-size: 2.5em;
+    font-size: 3em;
 
-    span {
+    div {
+        font-family: sans-serif;
         margin-top: var(--inner);
         color: var(--medium);
         font-weight: 300;
@@ -214,26 +242,7 @@ header h1 {
     }
 }
 
-/* BAR / STICKY */
-
-nav {
-    background-color: rgba(17, 17, 17, 0.85);
-    justify-content: space-between;
-    padding: 1.5em var(--outer);
-    font-size: var(--text-sm);
-    align-items: center;
-    color: var(--light);
-    flex-wrap: wrap;
-    position: fixed;
-    display: flex;
-    gap: 1em;
-    z-index: 99;
-    bottom: 0;
-    right: 0;
-    left: 0;
-}
-
-nav ul {
+.contact {
     align-items: center;
     flex-direction: row;
     align-items: center;
@@ -246,12 +255,14 @@ nav ul {
     a:not([class]) {
         text-decoration: none;
         align-items: center;
+        color: var(--dark);
         font-weight: 500;
-        color: var(--light);
         display: flex;
         gap: 0.5rem;
 
-        svg { fill: var(--accent); }
+        svg {
+            fill: var(--accent);
+        }
 
         &:hover,
         &:focus-visible {
@@ -269,12 +280,11 @@ section {
 }
 
 section h2 {
+    font-weight: 600;
     line-height: 1.25;
     font-size: 1em;
 
     span {
-        font-size: var(--text-sm);
-        font-size: 1rem;
         font-weight: 300;
         color: #647182;
         display: block;
@@ -288,11 +298,18 @@ section figure {
 }
 
 section .list {
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     gap: var(--outer) var(--inner);
     list-style: none;
-    display: grid;
     padding: 0;
+
+    --grid-placement: auto-fit;
+    --grid-min-item-size: clamp(150px, 20%, 300px);
+
+    display: grid;
+    grid-template-columns: 
+        repeat(var(--grid-placement, auto-fit), 
+        minmax(var(--grid-min-item-size, 16rem), 1fr))
+    ;
 
     img {
         transition: opacity 0.3s;
@@ -319,9 +336,9 @@ section .list {
     }
 }
 
-img:not(.img_hover) {
+/* img:not(.img_hover) {
     animation: fadeIn;
-    animation-timeline: view(0% block);
+    animation-timeline: view(50% block);
 }
 
 @keyframes fadeIn {
@@ -331,21 +348,25 @@ img:not(.img_hover) {
     to {
         opacity: 1;
     }
-}
+} */
 
 /* ADJUSTMENTS */
 
 @media screen and (min-width: 960px) {
+    body {
+        padding: 0 var(--outer);
+    }
+
     main {
         gap: var(--outer);
         display: flex;
     }
 
     header {
-        padding-bottom: calc(var(--outer) * 2);
         position: sticky;
         height: 100dvh;
         width: var(--left-col-width);
+        padding: var(--outer) 0;
         top: 0;
     }
 
