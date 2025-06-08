@@ -321,6 +321,7 @@ section .list {
 
 .img_wrap {
     position: relative;
+    background-color: #cdcfd3;
 }
 
 .img_hover {
